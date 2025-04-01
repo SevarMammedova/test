@@ -17,7 +17,7 @@
 
 [![Discord](https://img.shields.io/discord/1312302100125843476?logo=discord&label=discord)](https://glama.ai/mcp/discord)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/mcp?style=flat&logo=reddit&label=subreddit)](https://www.reddit.com/r/mcp/)
-[![build status](https://img.shields.io/azure-devops/build/dnceng-public/public/17/main)](https://dev.azure.com/dnceng-public/public/_build?definitionId=17) [![test results](https://img.shields.io/azure-devops/tests/dnceng-public/public/17/main)](https://dev.azure.com/dnceng-public/public/_build?definitionId=17)
+[![build status](https://img.shields.io/azure-devops/build/dnceng-public/public/17/main)](https://dev.azure.com/dnceng-public/public/_build?definitionId=17)
 
 
 # 🌟 Awesome LLM Apps
