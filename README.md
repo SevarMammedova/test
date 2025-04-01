@@ -27,7 +27,7 @@ You can learn more about NuGet here: [nuget.org](https://www.nuget.org/)
 
 ## PHOTO
 
-# How do I install NuGetForUnity?
+# Installation
 
 <details>
 <summary>Install via OpenUPM</summary>
@@ -67,6 +67,34 @@ https://github.com/GlitchEnzo/NuGetForUnity.git?path=/src/NuGetForUnity
 1. Reopen Unity project in Unity Editor
 
 </details>
+
+# Usage
+
+This is an incomplete list of features; to see all of them, check the [official site](https://www.hangfire.io) and the [documentation](https://docs.hangfire.io).
+
+[**Fire-and-forget tasks**](https://docs.hangfire.io/en/latest/background-methods/calling-methods-in-background.html)
+
+Dedicated worker pool threads execute queued background jobs as soon as possible, shortening your request's processing time.
+
+```csharp
+BackgroundJob.Enqueue(() => Console.WriteLine("Simple!"));
+```
+
+[**Delayed tasks**](https://docs.hangfire.io/en/latest/background-methods/calling-methods-with-delay.html)
+
+Scheduled background jobs are executed only after a given amount of time.
+
+```csharp
+BackgroundJob.Schedule(() => Console.WriteLine("Reliable!"), TimeSpan.FromDays(7));
+```
+
+[**Recurring tasks**](https://docs.hangfire.io/en/latest/background-methods/performing-recurrent-tasks.html)
+
+Recurring jobs have never been simpler; just call the following method to perform any kind of recurring task using the [CRON expressions](https://en.wikipedia.org/wiki/Cron#CRON_expression).
+
+```csharp
+RecurringJob.AddOrUpdate(() => Console.WriteLine("Transparent!"), Cron.Daily);
+```
 
 
 ## Licence
