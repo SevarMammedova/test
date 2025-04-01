@@ -68,8 +68,10 @@ https://github.com/GlitchEnzo/NuGetForUnity.git?path=/src/NuGetForUnity
 
 </details>
 
-# How do I install NuGetForUnity?
 
+## Licence
+
+Project is licenced under the [MIT licence](https://github.com/AvaloniaUI/Avalonia/blob/master/licence.md).
 
 
 # 🌟 Awesome LLM Apps
