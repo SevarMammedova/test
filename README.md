@@ -27,6 +27,10 @@ You can learn more about NuGet here: [nuget.org](https://www.nuget.org/)
 
 ## PHOTO
 
+<p align="center">
+    <img src="https://minkxx-spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true&spin=True" alt="Preview">
+</p>
+
 # Installation
 
 1. Download Visual Studio 2022
