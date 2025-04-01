@@ -50,7 +50,7 @@ _using Git Clone Or either download the project or exit the rar. Then Download V
    /ProjectName/Bin/Debug/Executable.exe
    ```
 
-# How to Use the Application
+# How to Use
 
 Here’s a simple and slightly detailed guide to help you use the application:
 
