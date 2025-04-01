@@ -27,6 +27,8 @@ You can learn more about NuGet here: [nuget.org](https://www.nuget.org/)
 
 ## PHOTO
 
+## Features
+
 <p align="center">
     <img src="https://minkxx-spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true&spin=True" alt="Preview">
 </p>
@@ -100,6 +102,6 @@ RecurringJob.AddOrUpdate(() => Console.WriteLine("Transparent!"), Cron.Daily);
 Project is licenced under the [MIT licence](https://github.com/AvaloniaUI/Avalonia/blob/master/licence.md).
 
 
-# 🌟 Awesome LLM Apps
+# 🌟 Awesome 
 
 A curated collection of awesome LLM apps built with RAG and AI agents. This repository features LLM apps that use models from OpenAI, Anthropic, Google, and open-source models like DeepSeek, Qwen or Llama that you can run locally on your computer.
