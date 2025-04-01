@@ -52,8 +52,6 @@ _using Git Clone Or either download the project or exit the rar. Then Download V
 
 # How to Use
 
-Here’s a simple and slightly detailed guide to help you use the application:
-
 1. **Open the Application**  
    - Locate the executable file (`.exe`) on your computer and double-click it to launch the program.
 
