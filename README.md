@@ -50,33 +50,34 @@ _using Git Clone Or either download the project or exit the rar. Then Download V
    /ProjectName/Bin/Debug/Executable.exe
    ```
 
-# Usage
+### **How to Use the Application**
 
-This is an incomplete list of features; to see all of them, check the [official site](https://www.hangfire.io) and the [documentation](https://docs.hangfire.io).
+Here’s a simple and slightly detailed guide to help you use the application:
 
-[**Fire-and-forget tasks**](https://docs.hangfire.io/en/latest/background-methods/calling-methods-in-background.html)
+1. **Open the Application**  
+   - Locate the executable file (`.exe`) on your computer and double-click it to launch the program.
 
-Dedicated worker pool threads execute queued background jobs as soon as possible, shortening your request's processing time.
+2. **Select Target and Adjust Settings**  
+   - Choose your desired target or task from the available options.  
+   - Customize any additional settings (e.g., preferences, configurations) to fit your needs.
 
-```csharp
-BackgroundJob.Enqueue(() => Console.WriteLine("Simple!"));
-```
+3. **Generate a Secure Password**  
+   - Use the built-in feature to create a strong password hashed with the **SHA-256 algorithm**. This ensures your password is secure and encrypted.
 
-[**Delayed tasks**](https://docs.hangfire.io/en/latest/background-methods/calling-methods-with-delay.html)
+4. **Start the Process**  
+   - Click the **"Start" button** or press `Ctrl + V` to begin the operation.  
+   - When prompted, enter the password you generated in the previous step.
 
-Scheduled background jobs are executed only after a given amount of time.
+5. **Provide API Key (If Required)**  
+   - If the application needs an API key to function (e.g., for external services), go to the settings and input your valid API key before proceeding.
 
-```csharp
-BackgroundJob.Schedule(() => Console.WriteLine("Reliable!"), TimeSpan.FromDays(7));
-```
+6. **Start the Server**  
+   - Once everything is configured, start the server. Wait for the connection to be established. A stable connection is necessary for the app to work properly.
 
-[**Recurring tasks**](https://docs.hangfire.io/en/latest/background-methods/performing-recurrent-tasks.html)
-
-Recurring jobs have never been simpler; just call the following method to perform any kind of recurring task using the [CRON expressions](https://en.wikipedia.org/wiki/Cron#CRON_expression).
-
-```csharp
-RecurringJob.AddOrUpdate(() => Console.WriteLine("Transparent!"), Cron.Daily);
-```
+7. **Troubleshoot Errors (If Any)**  
+   - If you encounter errors, ensure the following are installed on your system:  
+     - **Node.js**: Download and install it from [nodejs.org](https://nodejs.org).  
+     - **Visual Studio Build Tools**: Install these tools to resolve technical issues. 
 
 
 ## Contributing
