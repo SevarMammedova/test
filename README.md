@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.theunwindai.com">
-    <img src="https://github.com/user-attachments/assets/c098994b-c2f9-4e27-8f4d-8c90f3a15510" width="900" height="400" alt="Unwind AI">
+    <img src="https://github.com/user-attachments/assets/c098994b-c2f9-4e27-8f4d-8c90f3a15510" width="600" height="600" alt="Unwind AI">
   </a>
 </p>
 
