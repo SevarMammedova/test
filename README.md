@@ -21,8 +21,9 @@ NuGetForUnity is a NuGet client built from scratch to run inside the Unity Edito
 
 You can learn more about NuGet here: [nuget.org](https://www.nuget.org/)
 
-## PHOTO
+## Media
 ![photo_2025-04-02_20-19-43](https://github.com/user-attachments/assets/fc7ae72d-9e99-4155-b170-9e2a30ec1ba4)
+https://github.com/user-attachments/assets/e46a2828-41d0-44e1-a60c-81ddd4c67f27
 
 ## Features
 
