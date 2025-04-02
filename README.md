@@ -1,9 +1,8 @@
 <p align="center">
   <a href="http://www.theunwindai.com">
-    <img src="https://github.com/user-attachments/assets/9ebbb44d-3d21-4280-b48b-45414b274f59" width="900px" alt="Unwind AI">
+    <img src="https://github.com/user-attachments/assets/e94dd567-b67c-4d20-afd2-3446e07848b2" width="900px" alt="Unwind AI">
   </a>
 </p>
-
 
 <div align="center">
 <a href="z"><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/></a>
