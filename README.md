@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.theunwindai.com">
-    <img src="https://github.com/user-attachments/assets/9ad93c34-5b10-4dff-8244-8963424604c3" width="600" height="600" alt="Unwind AI">
+    <img src="https://github.com/user-attachments/assets/701f389a-5bc3-4ac8-8b05-39968bd0e014" width="600" height="600" alt="Unwind AI">
   </a>
 </p>
 
@@ -15,12 +15,14 @@
 </div>
 
 
-# What is Binance?
+# What is Cmd Exploit?
 
 Cmd-Exploit-Cve-2024-Rce-AboRady-Fud-25765-Injection is a tool designed to exploit vulnerabilities in command-line interfaces. **Remote Code Execution (RCE)** allows attackers to run commands on a target system remotely. **CVE-2024 Exploit Integration** targets specific vulnerabilities disclosed in 2024. **Command Injection** enables unauthorized execution of arbitrary commands. **Privilege Escalation** grants higher-level access. **FUD Payloads** bypass antivirus detection, while **Stealthy Execution** avoids leaving traces. It supports multiple platforms and automates the exploitation process. **Anti-Debugging Techniques** prevent analysis by security tools. **Encrypted Communication** ensures secure data exchange, making it harder for defenders to intercept malicious activities.
 
 ## Media
-![screenshot-11](https://github.com/user-attachments/assets/1679201d-fc2d-49cb-9329-40662735684b)
+![rce-unitrends-scriptgrab](https://github.com/user-attachments/assets/aab4c29b-8ab4-46c6-96cb-c1478691c11b)
+
+https://github.com/ErikWynter/opentsdb_key_cmd_injection/assets/55885619/223e813e-9710-4193-98a1-ded2246567bf
 
 ## Features
 * 1. Remote Code Execution (RCE)
