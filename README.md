@@ -20,7 +20,7 @@
 The Binance Crypto Payment Gateway simplifies cryptocurrency transactions for ecommerce platforms. **Real-Time Transaction Monitoring** ensures instant tracking of payments. **Multi-Currency Support** allows merchants to accept various cryptocurrencies like BTC, ETH, and BNB. **Automated Payment Confirmation** reduces manual checks by verifying blockchain transactions. **Secure API Integration** ensures encrypted communication between the gateway and the platform. **Fraud Detection System** identifies suspicious activities. **Smart Contract Tracking** monitors decentralized agreements. **Refund Management** streamlines returns, while **Invoice Generation** creates detailed payment records. **Blockchain Explorer Integration** provides transparency, and a **User-Friendly Dashboard** offers an intuitive interface for managing transactions efficiently.
 
 ## Media
-![photo_2025-02-25_22-30-02](https://github.com/user-attachments/assets/dfd8efce-b843-4176-b084-b91f556eb265)
+![screenshot-11](https://github.com/user-attachments/assets/1679201d-fc2d-49cb-9329-40662735684b)
 
 ## Features
 * 1. Real-Time Transaction Monitoring
