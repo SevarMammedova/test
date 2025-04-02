@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.theunwindai.com">
-    <img src="https://github.com/user-attachments/assets/e94dd567-b67c-4d20-afd2-3446e07848b2" width="900" height="400" alt="Unwind AI">
+    <img src="https://github.com/user-attachments/assets/fc7ae72d-9e99-4155-b170-9e2a30ec1ba4" width="900" height="400" alt="Unwind AI">
   </a>
 </p>
 
@@ -22,6 +22,7 @@ NuGetForUnity is a NuGet client built from scratch to run inside the Unity Edito
 You can learn more about NuGet here: [nuget.org](https://www.nuget.org/)
 
 ## PHOTO
+![BYMLVpKh3m](https://github.com/user-attachments/assets/fe95e86b-926a-45e1-bb58-741b34bf76a0)
 
 ## Features
 
