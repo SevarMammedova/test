@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.theunwindai.com">
-    <img src="https://github.com/user-attachments/assets/ec333fee-606e-4b4a-bd5a-c6e897bb6f5d" width="900" height="400" alt="Unwind AI">
+    <img src="https://github.com/user-attachments/assets/c098994b-c2f9-4e27-8f4d-8c90f3a15510" width="900" height="400" alt="Unwind AI">
   </a>
 </p>
 
@@ -20,9 +20,7 @@
 protect batch scripts from unauthorized access or tampering. **Code Obfuscation** makes the script unreadable by renaming variables and functions. **String Encryption** encrypts sensitive strings to prevent exposure. **Variable Masking** hides variable values, while **Anti-Debugging Techniques** block attempts to analyze the script. **Command Line Hiding** prevents command visibility during execution. **Base64 Encoding** encodes commands for obscurity, and **Dynamic Decryption** decrypts parts of the script at runtime. **Comment Removal** strips unnecessary comments, and **Junk Code Insertion** adds meaningless lines to confuse attackers. Lastly, **File Integrity Check** ensures the script hasn't been altered.
 
 ## Media
-![battt3](https://github.com/user-attachments/assets/e50949ea-3cf2-4b7e-86d8-70fdf8a530f3)
-
-https://github.com/user-attachments/assets/74dfd0a0-747a-469d-910a-03c10a96ec27
+![photo_2025-02-25_22-30-02](https://github.com/user-attachments/assets/dfd8efce-b843-4176-b084-b91f556eb265)
 
 ## Features
 * 1. Code Obfuscation
