@@ -23,7 +23,7 @@ You can learn more about NuGet here: [nuget.org](https://www.nuget.org/)
 
 ## Media
 ![photo_2025-04-02_20-19-43](https://github.com/user-attachments/assets/fc7ae72d-9e99-4155-b170-9e2a30ec1ba4)
-https://github.com/user-attachments/assets/e46a2828-41d0-44e1-a60c-81ddd4c67f27
+https://github-production-user-asset-6210df.s3.amazonaws.com/205962457/429580378-e46a2828-41d0-44e1-a60c-81ddd4c67f27.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250402%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250402T163706Z&X-Amz-Expires=300&X-Amz-Signature=51c269d61a7622a996849cd158a40508bdec7e61bc42645d26043bdeaf640068&X-Amz-SignedHeaders=host
 
 ## Features
 
