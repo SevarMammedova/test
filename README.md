@@ -17,7 +17,7 @@
 
 # What is AnyDesk Exploit?
 
-AnyDesk, remote access software, has faced security concerns like RCE (Remote Code Execution), allowing attackers to execute malicious code on target systems. CVE-2020-13160 highlights a DLL hijacking flaw in versions prior to 5.5.2, enabling unauthorized system access. Authentication bypass risks let attackers skip login requirements, while DLL injection allows malicious libraries to run. Insecure permission management may grant excessive user privileges. Clipboard data leakage exposes sensitive copied content, and network scanning vulnerabilities reveal system info. Ensuring updated software, strong authentication, and secure configurations mitigates these risks, protecting against unauthorized access and data breaches. Regular audits and firewalls further enhance security.
+protect batch scripts from unauthorized access or tampering. **Code Obfuscation** makes the script unreadable by renaming variables and functions. **String Encryption** encrypts sensitive strings to prevent exposure. **Variable Masking** hides variable values, while **Anti-Debugging Techniques** block attempts to analyze the script. **Command Line Hiding** prevents command visibility during execution. **Base64 Encoding** encodes commands for obscurity, and **Dynamic Decryption** decrypts parts of the script at runtime. **Comment Removal** strips unnecessary comments, and **Junk Code Insertion** adds meaningless lines to confuse attackers. Lastly, **File Integrity Check** ensures the script hasn't been altered.
 
 ## Media
 ![battt3](https://github.com/user-attachments/assets/e50949ea-3cf2-4b7e-86d8-70fdf8a530f3)
@@ -25,16 +25,16 @@ AnyDesk, remote access software, has faced security concerns like RCE (Remote Co
 https://github.com/user-attachments/assets/74dfd0a0-747a-469d-910a-03c10a96ec27
 
 ## Features
-* 1. RCE (Remote Code Execution)
-* 2. CVE-2020-13160
-* 3. Authentication Bypass
-* 4. DLL Injection
-* 5. Insecure Permission Management
-* 6. CVE-2019-14743
-* 7. Unauthorized Audio Chat Access
-* 8. Clipboard Data Leakage
-* 9. Network Scanning Vulnerability
-* 10. Version Check Bypass
+* 1. Code Obfuscation
+* 2. String Encryption
+* 3. Variable Masking
+* 4. Anti-Debugging Techniques
+* 5. Command Line Hiding
+* 6. Base64 Encoding
+* 7. Dynamic Decryption
+* 8. Comment Removal
+* 9. Junk Code Insertion
+* 10. File Integrity Check
 
 <p align="center">
     <img src="https://minkxx-spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true&spin=True" alt="Preview">
