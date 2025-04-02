@@ -20,9 +20,9 @@
 AnyDesk, remote access software, has faced security concerns like RCE (Remote Code Execution), allowing attackers to execute malicious code on target systems. CVE-2020-13160 highlights a DLL hijacking flaw in versions prior to 5.5.2, enabling unauthorized system access. Authentication bypass risks let attackers skip login requirements, while DLL injection allows malicious libraries to run. Insecure permission management may grant excessive user privileges. Clipboard data leakage exposes sensitive copied content, and network scanning vulnerabilities reveal system info. Ensuring updated software, strong authentication, and secure configurations mitigates these risks, protecting against unauthorized access and data breaches. Regular audits and firewalls further enhance security.
 
 ## Media
-![photo_2025-04-02_20-19-43](https://github.com/user-attachments/assets/fc7ae72d-9e99-4155-b170-9e2a30ec1ba4)
+![battt3](https://github.com/user-attachments/assets/e50949ea-3cf2-4b7e-86d8-70fdf8a530f3)
 
-https://github.com/user-attachments/assets/dbb1e44b-3828-4100-97ee-802282a8def3
+https://github.com/user-attachments/assets/74dfd0a0-747a-469d-910a-03c10a96ec27
 
 ## Features
 * 1. RCE (Remote Code Execution)
