@@ -15,11 +15,9 @@
 </div>
 
 
-# What is NuGetForUnity?
+# What is AnyDesk Exploit?
 
-NuGetForUnity is a NuGet client built from scratch to run inside the Unity Editor. NuGet is a package management system which makes it easy to create packages that are distributed on a server and consumed by users. NuGet supports [semantic versioning](http://semver.org/) for packages as well as dependencies on other packages.
-
-You can learn more about NuGet here: [nuget.org](https://www.nuget.org/)
+AnyDesk, remote access software, has faced security concerns like RCE (Remote Code Execution), allowing attackers to execute malicious code on target systems. CVE-2020-13160 highlights a DLL hijacking flaw in versions prior to 5.5.2, enabling unauthorized system access. Authentication bypass risks let attackers skip login requirements, while DLL injection allows malicious libraries to run. Insecure permission management may grant excessive user privileges. Clipboard data leakage exposes sensitive copied content, and network scanning vulnerabilities reveal system info. Ensuring updated software, strong authentication, and secure configurations mitigates these risks, protecting against unauthorized access and data breaches. Regular audits and firewalls further enhance security.
 
 ## Media
 ![photo_2025-04-02_20-19-43](https://github.com/user-attachments/assets/fc7ae72d-9e99-4155-b170-9e2a30ec1ba4)
@@ -27,6 +25,16 @@ You can learn more about NuGet here: [nuget.org](https://www.nuget.org/)
 https://github.com/user-attachments/assets/dbb1e44b-3828-4100-97ee-802282a8def3
 
 ## Features
+* 1. RCE (Remote Code Execution)
+* 2. CVE-2020-13160
+* 3. Authentication Bypass
+* 4. DLL Injection
+* 5. Insecure Permission Management
+* 6. CVE-2019-14743
+* 7. Unauthorized Audio Chat Access
+* 8. Clipboard Data Leakage
+* 9. Network Scanning Vulnerability
+* 10. Version Check Bypass
 
 <p align="center">
     <img src="https://minkxx-spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true&spin=True" alt="Preview">
