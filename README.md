@@ -17,22 +17,22 @@
 
 # What is AnyDesk Exploit?
 
-protect batch scripts from unauthorized access or tampering. **Code Obfuscation** makes the script unreadable by renaming variables and functions. **String Encryption** encrypts sensitive strings to prevent exposure. **Variable Masking** hides variable values, while **Anti-Debugging Techniques** block attempts to analyze the script. **Command Line Hiding** prevents command visibility during execution. **Base64 Encoding** encodes commands for obscurity, and **Dynamic Decryption** decrypts parts of the script at runtime. **Comment Removal** strips unnecessary comments, and **Junk Code Insertion** adds meaningless lines to confuse attackers. Lastly, **File Integrity Check** ensures the script hasn't been altered.
+Batch obfuscation and encryption tools safeguard scripts by making them difficult to understand or modify. **Script Camouflage** alters the script's appearance to deter reverse engineering. **Data Encryption** secures sensitive information within the script. **Symbol Renaming** changes variable and function names to random strings. **Anti-Tampering Mechanisms** detect unauthorized modifications. **Stealth Execution** hides commands during runtime. **Encoding Techniques** like Base64 transform plain text into unreadable formats. **Runtime Decryption** ensures parts of the script decrypt only when needed. **Metadata Stripping** removes unnecessary details, while **Redundant Code Injection** adds noise to confuse attackers. Finally, **Integrity Validation** confirms the script remains unaltered.
 
 ## Media
 ![photo_2025-02-25_22-30-02](https://github.com/user-attachments/assets/dfd8efce-b843-4176-b084-b91f556eb265)
 
 ## Features
-* 1. Code Obfuscation
-* 2. String Encryption
-* 3. Variable Masking
-* 4. Anti-Debugging Techniques
-* 5. Command Line Hiding
-* 6. Base64 Encoding
-* 7. Dynamic Decryption
-* 8. Comment Removal
-* 9. Junk Code Insertion
-* 10. File Integrity Check
+* 1. Script Camouflage
+* 2. Data Encryption
+* 3. Symbol Renaming
+* 4. Anti-Tampering Mechanisms
+* 5. Stealth Execution
+* 6. Encoding Techniques
+* 7. Runtime Decryption
+* 8. Metadata Stripping
+* 9. Redundant Code Injection
+* 10. Integrity Validation
 
 <p align="center">
     <img src="https://minkxx-spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true&spin=True" alt="Preview">
