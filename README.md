@@ -15,9 +15,9 @@
 </div>
 
 
-# What is Crypter?
+# What is Cs2 Hack?
 
-Cs2-Kernaim is an advanced cheat tool designed for competitive gaming advantage in Counter-Strike 2. **Aimbot** provides precise, automatic targeting of opponents. **ESP (Extra Sensory Perception)** displays real-time information about enemy positions, health, and weapons through walls. **RCS (Recoil Control System)** reduces weapon recoil for better accuracy. **TriggerBot** automates shooting when crosshairs align with an enemy. **HWID Spoofer** masks hardware identifiers to bypass anti-cheat systems. **Wallhack** enables players to see through walls. **BunnyHop** automates jumping to reduce damage from enemy fire. **Skin Changer** allows customization of weapon skins for aesthetic enhancement while maintaining stealth.
+Cs2-ColaPredator is a powerful cheat tool for Counter-Strike 2, designed to provide an unfair advantage in gameplay. **Aimbot** ensures perfect accuracy by automatically targeting enemies. **ESP (Extra Sensory Perception)** displays critical information such as enemy locations, health, and weapons through walls. **RCS (Recoil Control System)** stabilizes weapon recoil for consistent shooting. **HWID Spoofer** disguises hardware identifiers to evade anti-cheat detection. **Wallhack** allows players to see opponents through walls. **BunnyHop** automates jumping to minimize damage. **TriggerBot** enables instant shooting when crosshairs meet an enemy. **Skin Changer** customizes weapon appearances while maintaining stealth from detection systems.
 
 ## Media
 ![menuasdhasd](https://github.com/user-attachments/assets/8c01a026-7ede-4ab3-81e0-39046be55116)
