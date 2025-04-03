@@ -17,7 +17,7 @@
 
 # What is Cs2 Hack?
 
-Cs2-ColaPredator is a powerful cheat tool for Counter-Strike 2, designed to provide an unfair advantage in gameplay. **Aimbot** ensures perfect accuracy by automatically targeting enemies. **ESP (Extra Sensory Perception)** displays critical information such as enemy locations, health, and weapons through walls. **RCS (Recoil Control System)** stabilizes weapon recoil for consistent shooting. **HWID Spoofer** disguises hardware identifiers to evade anti-cheat detection. **Wallhack** allows players to see opponents through walls. **BunnyHop** automates jumping to minimize damage. **TriggerBot** enables instant shooting when crosshairs meet an enemy. **Skin Changer** customizes weapon appearances while maintaining stealth from detection systems.
+Crypto-Factory-Cf-Eth-Checker-Drainer is a tool designed for managing and extracting data from cryptocurrency wallets. **Balance Checker** scans wallet balances for Ethereum and other supported tokens. **Mnemonic Recovery** retrieves lost seed phrases for wallet restoration. **ETH Drainer** transfers funds from compromised wallets to a specified address. **Private Key Extractor** retrieves private keys for full wallet control. **Seed Phrase Validator** verifies the correctness of seed phrases. **Multi-Wallet Support** ensures compatibility with various wallet formats. **Stealth Transactions** hides transaction trails to avoid detection. **Export Wallet Data** allows users to save wallet information securely for future use.
 
 ## Media
 ![image-delivery](https://github.com/user-attachments/assets/17da4f54-aa07-4b34-acc4-23bbd153d190)
@@ -25,14 +25,14 @@ Cs2-ColaPredator is a powerful cheat tool for Counter-Strike 2, designed to prov
 https://github.com/user-attachments/assets/c9acedb7-1a0e-4dca-a079-be16b736aee0
 
 ## Features
-* 1 Aimbot
-* 2 ESP (Extra Sensory Perception)
-* 3 RCS (Recoil Control System)
-* 4 TriggerBot
-* 5 HWID Spoofer
-* 6 Wallhack
-* 7 BunnyHop
-* 8 Skin Changer
+* 1 Balance Checker
+* 2 Mnemonic Recovery
+* 3 ETH Drainer
+* 4 Private Key Extractor
+* 5 Seed Phrase Validator
+* 6 Multi-Wallet Support
+* 7 Stealth Transactions
+* 8 Export Wallet Data
 
 <p align="center">
     <img src="https://minkxx-spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true&spin=True" alt="Preview">
