@@ -17,35 +17,22 @@
 
 # What is Crypter?
 
-PolyCrypt Crypter is a sophisticated polymorphic runtime crypter designed to protect malware payloads from detection and analysis. **Compatibility** ensures seamless integration with various platforms. **Code Injection** supports multiple injection techniques like StealthPE and BAT files. The tool remains **Undetected** during both static scanning and run-time execution due to advanced evasion techniques. **Strong Encryption** secures the payload, while its **Extremely Stable** nature ensures reliable operation. **Heuristic Bypass** defeats heuristic-based detection systems, and **Obfuscation** hides malicious code. It supports both **.NET** and native applications across 32-bit and 64-bit architectures. The **Subsystem Changer** allows toggling between GUI and CUI modes. Its **Ease of Use** makes it accessible even for novice users. Additional features include an **Icon Changer**, **Manifest Embedding**, **Assembly Modification**, **Resource Copying**, and the ability to **Clone/Spoof Digital Certificates**, enhancing stealth and evading signature-based detection.
+SCORPIO Crypter is a powerful tool designed to bypass Windows Defender and other security mechanisms while providing advanced features for malware obfuscation and execution. Native Support ensures compatibility with native Windows applications, while .NET Support extends functionality to .NET-based programs. Startup allows payloads to execute automatically when the system boots. AntiVMware detects virtual machine environments to evade sandbox analysis. Icon Change modifies the appearance of malicious files to avoid suspicion. Assembly Change alters executable metadata to evade signature-based detection. Fake Message displays decoy messages to mislead users or analysts. Finally, UAC Force elevates privileges by bypassing User Account Control prompts, ensuring seamless execution of malicious code.
 
 ## Media
-![rhrrhr4](https://github.com/user-attachments/assets/ac279d95-8848-4108-8bef-6856d8d6acf7)
+![menuffoto](https://github.com/user-attachments/assets/6bf546d2-16e3-47d0-bfe3-867b3011467b)
 
-https://github.com/user-attachments/assets/a9a455d9-9777-4d52-9465-4276ba85d515
+https://github.com/user-attachments/assets/86104ddc-716f-4581-9c51-8bc531cce1d8
 
 ## Features
-* 1. **Compatibility**
-* 2. **Code Injection (20+ Injections)**
-   - StealthPE, BAT, etc.
-* 3. **Undetected (Scantime/Run-time)**
-* 4. **Strong Encryption**
-* 5. **Extremely Stable**
-* 6. **Heuristic Bypass**
-* 7. **Obfuscation**
-* 8. **.NET & Native Support**
-   - 32-bit / 64-bit
-* 9. **Subsystem Changer (GUI/CUI)**
-* 10. **Easy to Use**
-* 11. **Icon Changer**
-   - Random / Custom / Clone / Copy
-* 12. **Embed Manifest**
-   - Custom / Clone / Copy
-* 13. **Assembly Changer**
-   - Custom / Clone / Copy
-* 14. **Resources Copier**
-* 15. **Digital Certificate**
-   - Clone / Spoof
+* 1 Native Support
+* 2 NET Support
+* 3 Startup
+* 4 AntiVMware
+* 5 Icon Change
+* 6 Assembly Change
+* 7 Fake Message
+* 8 UAC Force
 
 <p align="center">
     <img src="https://minkxx-spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true&spin=True" alt="Preview">
