@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.theunwindai.com">
-    <img src="https://github.com/user-attachments/assets/302c204e-dd63-4d6c-8d62-742be4a744db" width="600" height="300" alt="Unwind AI">
+    <img src="https://github.com/user-attachments/assets/c755ec2b-dbc0-4423-8186-8eef2d34083f" width="600" height="300" alt="Unwind AI">
   </a>
 </p>
 
@@ -17,10 +17,10 @@
 
 # What is Spoofer?
 
-DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd is a tool designed to spoof hardware identifiers (HWID) and bypass anti-cheat systems like EAC, BE, and Vanguard. **HWID Spoofer** masks hardware signatures to avoid detection. **EAC (Easy Anti-Cheat) Bypass**, **BE (BattleEye) Bypass**, and **Vanguard Bypass** allow users to evade restrictions imposed by these systems. **Temporary Spoofing** changes HWID temporarily for short-term use. **Permanent Spoofing** modifies hardware details permanently. **Intel Processor Support** ensures compatibility with Intel-based systems. **AMD Processor Support** extends functionality to AMD processors. This tool is ideal for gamers or developers seeking to bypass hardware bans while maintaining system stability across different architectures.
+Ancient-Temporary-Permanted-Hwid-Spoofer-Eac-Be-Vanguard-Intel-Amd is a robust tool designed to spoof hardware identifiers (HWID) and bypass modern anti-cheat systems like EAC, BE, and Vanguard. **HWID Spoofer** alters unique hardware signatures to evade detection. **EAC (Easy Anti-Cheat) Bypass**, **BE (BattleEye) Bypass**, and **Vanguard Bypass** allow users to bypass restrictions imposed by these systems. **Temporary Spoofing** modifies HWID for short-term use, while **Permanent Spoofing** ensures long-term changes. **Intel Processor Support** and **AMD Processor Support** ensure compatibility across both processor architectures. This tool is ideal for gamers or testers seeking to avoid hardware bans while maintaining system integrity and performance.
 
 ## Media
-![oRVYjGP](https://github.com/user-attachments/assets/6f0d8415-ff74-4751-9fd4-b17d08faf6d6)
+![hwidspooferimage2](https://github.com/user-attachments/assets/554339a1-6fd6-4e13-b47a-7859ebedd25a)
 
 ## Features
 * 1 HWID Spoofer
