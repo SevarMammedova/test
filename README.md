@@ -15,9 +15,9 @@
 </div>
 
 
-# What is Sakura Rat?
+# What is ShellCode Elevator?
 
-Sakura-Rat-Hvnc-Hidden-Browser-Remote-Administration-Trojan-Bot-Native is a sophisticated tool designed for stealthy remote access and control. **Hidden Browser** allows attackers to browse the web through the victim's machine without detection. **HVNC (Hidden Virtual Network Computing)** provides remote desktop access without triggering alerts. **Remote Administration Trojan (RAT)** grants full control over the target system, including file management and command execution. **Bot Functionality** enables automation of tasks like data exfiltration. **Native Support** ensures compatibility with various Windows architectures. **Anti-Detection Mechanism** bypasses antivirus and endpoint protection systems. **Fileless Execution** runs payloads in memory to avoid leaving traces on disk. **Multi-Session Handling** supports simultaneous connections to multiple victims.
+ShellCode-Elevator-Uac-Bypass-Inject-Any-X64-fud is a tool designed to bypass User Account Control (UAC) and inject shellcode into processes on x64 systems while remaining undetected. **UAC Bypass** elevates privileges without triggering alerts. **ShellCode Injection** embeds malicious code into legitimate processes for stealthy execution. **X64 Architecture Support** ensures compatibility with 64-bit systems. **FUD (Fully Undetectable)** avoids detection by antivirus and security tools. **Privilege Escalation** grants higher-level access to the system. **Stealth Execution** ensures the payload runs without user or system notifications. **Anti-Debugging Mechanism** prevents analysis by debuggers or reverse-engineering tools. **Memory-Only Injection** executes payloads directly in memory, leaving no traces on disk.
 
 ## Media
 ![Screenshot_1](https://github.com/user-attachments/assets/b241dc3f-b949-441e-b1bb-c9e4894c21c1)
@@ -25,14 +25,14 @@ Sakura-Rat-Hvnc-Hidden-Browser-Remote-Administration-Trojan-Bot-Native is a soph
 https://github.com/user-attachments/assets/93a86a10-2e89-4ddd-83ff-353f70e7bc0f
 
 ## Features
-* 1 Hidden Browser
-* 2 HVNC (Hidden Virtual Network Computing)
-* 3 Remote Administration Trojan (RAT)
-* 4 Bot Functionality
-* 5 Native Support
-* 6 Anti-Detection Mechanism
-* 7 Fileless Execution
-* 8 Multi-Session Handling
+* 1 UAC Bypass
+* 2 ShellCode Injection
+* 3 X64 Architecture Support
+* 4 FUD (Fully Undetectable)
+* 5 Privilege Escalation
+* 6 Stealth Execution
+* 7 Anti-Debugging Mechanism
+* 8 Memory-Only Injection
 
 
 <p align="center">
