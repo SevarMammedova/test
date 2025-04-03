@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.theunwindai.com">
-    <img src="https://github.com/user-attachments/assets/85e42f3a-0408-4c1b-b147-8b5215f9a5d0" width="600" height="300" alt="Unwind AI">
+    <img src="https://github.com/user-attachments/assets/99f6d4c0-7f76-4978-8b65-8233ae856906" width="600" height="300" alt="Unwind AI">
   </a>
 </p>
 
@@ -20,9 +20,7 @@
 ShellCode-Elevator-Uac-Bypass-Inject-Any-X64-fud is a tool designed to bypass User Account Control (UAC) and inject shellcode into processes on x64 systems while remaining undetected. **UAC Bypass** elevates privileges without triggering alerts. **ShellCode Injection** embeds malicious code into legitimate processes for stealthy execution. **X64 Architecture Support** ensures compatibility with 64-bit systems. **FUD (Fully Undetectable)** avoids detection by antivirus and security tools. **Privilege Escalation** grants higher-level access to the system. **Stealth Execution** ensures the payload runs without user or system notifications. **Anti-Debugging Mechanism** prevents analysis by debuggers or reverse-engineering tools. **Memory-Only Injection** executes payloads directly in memory, leaving no traces on disk.
 
 ## Media
-![Screenshot_1](https://github.com/user-attachments/assets/b241dc3f-b949-441e-b1bb-c9e4894c21c1)
-
-https://github.com/user-attachments/assets/93a86a10-2e89-4ddd-83ff-353f70e7bc0f
+![download](https://github.com/user-attachments/assets/7c6445cb-747e-423c-a900-6c38ae41bfb8)
 
 ## Features
 * 1 UAC Bypass
