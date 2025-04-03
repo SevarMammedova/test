@@ -17,22 +17,23 @@
 
 # What is Exe Malware Tool?
 
-Exe-To-Base64-ShellCode-Convert is a versatile tool designed to transform executable files into Base64-encoded payloads or raw ShellCode for stealthy execution. **EXE to Base64 Conversion** encodes binary files into text format for easier embedding. **ShellCode Generation** extracts and converts executables into low-level machine code. **Payload Compression** reduces the size of the output for efficient delivery. **Output Encryption** secures the converted payload against analysis. **Stealth Encoding** ensures the output evades signature-based detection. **Custom Delimiters** allow flexible formatting of encoded data. **Multi-Platform Support** ensures compatibility across different operating systems. **Debugging Mode** assists in troubleshooting and verifying the conversion process.
+Exe-To-Batch-Convert is a tool designed to transform executable files into batch scripts for discreet execution. **EXE to Batch Conversion** converts binary executables into batch script format, allowing them to run as text-based commands. **Payload Embedding** integrates the executable data seamlessly into the batch file. **Stealth Execution** ensures the payload runs without drawing attention. **Custom Script Header** allows users to add personalized headers for obfuscation. **Output Compression** reduces the size of the generated batch file. **Anti-Detection Encoding** minimizes the risk of detection by security tools. **Debugging Support** helps verify functionality during testing. **Multi-EXE Support** enables bundling multiple executables into a single batch script.
 
 ## Media
-![photo_2025-04-03_13-58-45](https://github.com/user-attachments/assets/191e5069-ff73-45ba-8da2-2a305b514e3c)
+![photo_2025-04-03_14-05-18](https://github.com/user-attachments/assets/313dc73d-b100-44ce-b8e7-c48c06918258)
 
-https://github.com/user-attachments/assets/98c21e4d-c8f7-4dee-bed0-0f0e071e6bda
+https://github.com/user-attachments/assets/be559e51-f333-4404-96dc-7f4ce3a81f04
+
 
 ## Features
-* 1 EXE to Base64 Conversion
-* 2 ShellCode Generation
-* 3 Payload Compression
-* 4 Output Encryption
-* 5 Stealth Encoding
-* 6 Custom Delimiters
-* 7 Multi-Platform Support
-* 8 Debugging Mode
+* 1 EXE to Batch Conversion
+* 2 Payload Embedding
+* 3 Stealth Execution
+* 4 Custom Script Header
+* 5 Output Compression
+* 6 Anti-Detection Encoding
+* 7 Debugging Support
+* 8 Multi-EXE Support
 
 <p align="center">
     <img src="https://minkxx-spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true&spin=True" alt="Preview">
