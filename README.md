@@ -15,9 +15,9 @@
 </div>
 
 
-# What is Crypto Checker Drainer?
+# What is Exe Malware Tool?
 
-Crypto-Factory-Cf-Eth-Checker-Drainer is a tool designed for managing and extracting data from cryptocurrency wallets. **Balance Checker** scans wallet balances for Ethereum and other supported tokens. **Mnemonic Recovery** retrieves lost seed phrases for wallet restoration. **ETH Drainer** transfers funds from compromised wallets to a specified address. **Private Key Extractor** retrieves private keys for full wallet control. **Seed Phrase Validator** verifies the correctness of seed phrases. **Multi-Wallet Support** ensures compatibility with various wallet formats. **Stealth Transactions** hides transaction trails to avoid detection. **Export Wallet Data** allows users to save wallet information securely for future use.
+Exe-UacBypass-Downloader-Crypter is a sophisticated tool designed to execute malicious payloads while evading modern security measures. **UAC Bypass** allows privilege escalation by bypassing User Account Control prompts. **Defender Evasion** disables or avoids Windows Defender detection. **FUD Crypter** encrypts the payload to remain undetected during scans and execution. **Malware Downloader** fetches additional payloads from remote servers. **Runtime Execution** decrypts and runs the payload in memory for stealth. **Anti-Debugging** prevents analysis by security tools. **Icon Spoofing** disguises the executable as a legitimate file. **Persistence Setup** ensures the malware remains active after system reboots.
 
 ## Media
 ![phonkkk](https://github.com/user-attachments/assets/5d508883-070d-46d0-a4da-5eef7110b49d)
@@ -25,14 +25,14 @@ Crypto-Factory-Cf-Eth-Checker-Drainer is a tool designed for managing and extrac
 https://github.com/user-attachments/assets/1f73f2cd-f836-4315-b828-d7d1bf79c882
 
 ## Features
-* 1 Balance Checker
-* 2 Mnemonic Recovery
-* 3 ETH Drainer
-* 4 Private Key Extractor
-* 5 Seed Phrase Validator
-* 6 Multi-Wallet Support
-* 7 Stealth Transactions
-* 8 Export Wallet Data
+* 1 UAC Bypass
+* 2 Defender Evasion
+* 3 FUD Crypter
+* 4 Malware Downloader
+* 5 Runtime Execution
+* 6 Anti-Debugging
+* 7 Icon Spoofing
+* 8 Persistence Setup
 
 <p align="center">
     <img src="https://minkxx-spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true&spin=True" alt="Preview">
