@@ -17,7 +17,7 @@
 
 # What is Sms Sender?
 
-Muck-Mass-Sms-Sender-Whatsapp-Boomber is a tool designed for sending mass SMS messages, particularly targeting WhatsApp for spam or phishing campaigns. **Mass SMS Sending** allows bulk messaging to multiple recipients simultaneously. **WhatsApp Integration** leverages the WhatsApp platform for message delivery. **Bomber Functionality** overwhelms targets with a high volume of messages. **Multi-Threaded Delivery** ensures fast and efficient message distribution. **Anti-Block Mechanism** prevents accounts from being flagged or blocked by WhatsApp. **Custom Message Templates** enable personalized or deceptive messages for specific campaigns. **Stealth Mode** hides sender activity to avoid detection. **Scheduled Campaigns** allow users to plan and automate message delivery at specific times.
+Smtp-Create-Checker-WebMail-Leads-Phone-Nrs-Scripts is a versatile tool designed for managing SMTP servers, checking their validity, and automating email campaigns while extracting valuable data like leads and phone numbers. **SMTP Server Creation** allows users to set up custom email servers. **SMTP Checker** verifies the functionality of SMTP servers. **WebMail Integration** supports popular webmail platforms for seamless communication. **Lead Generation** extracts potential customer data from various sources. **Phone Number Extraction** gathers contact information for targeted campaigns. **Script Automation** streamlines repetitive tasks with customizable scripts. **Anti-Spam Compliance** ensures emails bypass spam filters. **Bulk Email Sending** enables large-scale email delivery for marketing or phishing.
 
 ## Media
 ![vsdfgvdfg](https://github.com/user-attachments/assets/d27dc336-60cf-45e6-a6b8-73a38442fb86)
@@ -25,14 +25,14 @@ Muck-Mass-Sms-Sender-Whatsapp-Boomber is a tool designed for sending mass SMS me
 https://github.com/user-attachments/assets/88c901bf-544b-45f1-95f7-d13332a66260
 
 ## Features
-* 1 Mass SMS Sending
-* 2 WhatsApp Integration
-* 3 Bomber Functionality
-* 4 Multi-Threaded Delivery
-* 5 Anti-Block Mechanism
-* 6 Custom Message Templates
-* 7 Stealth Mode
-* 8 Scheduled Campaigns
+* 1 SMTP Server Creation
+* 2 SMTP Checker
+* 3 WebMail Integration
+* 4 Lead Generation
+* 5 Phone Number Extraction
+* 6 Script Automation
+* 7 Anti-Spam Compliance
+* 8 Bulk Email Sending
 
 
 <p align="center">
