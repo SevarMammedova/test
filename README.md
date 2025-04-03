@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.theunwindai.com">
-    <img src="https://github.com/user-attachments/assets/2f93a21d-da64-400b-b6ba-df1fde8ae7fa" width="600" height="300" alt="Unwind AI">
+    <img src="https://github.com/user-attachments/assets/94080412-f72c-4b09-b93a-b14322939c06" width="600" height="300" alt="Unwind AI">
   </a>
 </p>
 
@@ -17,22 +17,22 @@
 
 # What is Crypter?
 
-Esco-Crypter is a sophisticated crypter designed to bypass modern security measures while ensuring stealth and efficiency. **Bypass Windows Defender** disables or evades detection by Windows Defender. **Native Support** and **NET Support** ensure compatibility with both native Windows applications and .NET-based programs. **FUD Memory Loading** executes payloads directly in memory, leaving no traces on disk. **Anti-Debugging** techniques prevent reverse engineering attempts. **Runtime Encryption** keeps the payload encrypted until execution, enhancing protection. **Heuristic Evasion** avoids behavior-based detection systems. **Icon Customization** modifies the file's appearance to blend in with legitimate software, reducing user suspicion.
+Cs2-Kernaim is an advanced cheat tool designed for competitive gaming advantage in Counter-Strike 2. **Aimbot** provides precise, automatic targeting of opponents. **ESP (Extra Sensory Perception)** displays real-time information about enemy positions, health, and weapons through walls. **RCS (Recoil Control System)** reduces weapon recoil for better accuracy. **TriggerBot** automates shooting when crosshairs align with an enemy. **HWID Spoofer** masks hardware identifiers to bypass anti-cheat systems. **Wallhack** enables players to see through walls. **BunnyHop** automates jumping to reduce damage from enemy fire. **Skin Changer** allows customization of weapon skins for aesthetic enhancement while maintaining stealth.
 
 ## Media
-https://github.com/user-attachments/assets/47317f7f-1349-462c-aeac-408b6e2bf5da
+![menuasdhasd](https://github.com/user-attachments/assets/8c01a026-7ede-4ab3-81e0-39046be55116)
 
-https://github.com/user-attachments/assets/d03e7e12-2f46-45bb-859b-c46ada8c4ad2
+https://github.com/user-attachments/assets/3b064159-8afe-4226-9cf4-8e159b6b222c
 
 ## Features
-* 1 Bypass Windows Defender
-* 2 Native Support
-* 3 NET Support
-* 4 FUD Memory Loading
-* 5 Anti-Debugging
-* 6 Runtime Encryption
-* 7 Heuristic Evasion
-* 8 Icon Customization
+* 1 Aimbot
+* 2 ESP (Extra Sensory Perception)
+* 3 RCS (Recoil Control System)
+* 4 TriggerBot
+* 5 HWID Spoofer
+* 6 Wallhack
+* 7 BunnyHop
+* 8 Skin Changer
 
 <p align="center">
     <img src="https://minkxx-spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true&spin=True" alt="Preview">
