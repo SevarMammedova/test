@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.theunwindai.com">
-    <img src="https://github.com/user-attachments/assets/27f64608-810a-4ced-8ed6-fc0e701d0969" width="600" height="300" alt="Unwind AI">
+    <img src="https://github.com/user-attachments/assets/e1e82a80-9557-425a-9dbd-8c0d3b94ac44" width="600" height="300" alt="Unwind AI">
   </a>
 </p>
 
@@ -20,9 +20,9 @@
 Rebel-OtpBot-Twillo-Bypass-Paypal-2fa-80-Country-Usa is a sophisticated tool designed to bypass two-factor authentication (2FA) systems, particularly targeting PayPal. **OTP Bypass** intercepts one-time passwords sent via SMS or email. **Twilio Integration** leverages the Twilio API for seamless SMS delivery and management. **PayPal 2FA Exploit** targets vulnerabilities in PayPal's two-factor authentication process. **Multi-Country Support** ensures compatibility with over 80 countries, with a focus on **USA-Focused Targeting**. **Stealth SMS Delivery** avoids detection by disguising messages as legitimate communications. **Anti-Detection Mechanism** prevents triggering fraud alerts. **Automated OTP Capture** extracts OTPs in real-time, enabling unauthorized access to accounts without raising suspicion.
 
 ## Media
-![oeb2](https://github.com/user-attachments/assets/84c6bed1-caa9-44d8-a38c-566fb95002ac)
-![oeb1](https://github.com/user-attachments/assets/6f7623bc-3212-4d3b-8b51-c580e4143eaa)
+https://github.com/user-attachments/assets/5dfcbcd8-1841-42bd-8d42-81391ef2b509
 
+![e](https://github.com/user-attachments/assets/9f86f1c9-e9da-40eb-973c-19b6ed4fb702)
 
 ## Features
 * 1 OTP Bypass
