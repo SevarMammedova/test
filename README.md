@@ -15,9 +15,9 @@
 </div>
 
 
-# What is Office Exploit?
+# What is OTP bot?
 
-Office-Exploit-Cve2025-Xml-Doc-Docx-Rce-Builder-Fud is a tool designed to exploit vulnerabilities in Microsoft Office documents for remote code execution. **Office Exploit** leverages weaknesses in Office applications to execute malicious code. **CVE-2025 Integration** targets specific vulnerabilities disclosed in 2025. **XML Payload Embedding** injects malicious scripts into XML-based Office files. **DOC/DOCX Support** ensures compatibility with both legacy and modern document formats. **RCE (Remote Code Execution)** allows attackers to run commands on the target system. **FUD (Fully Undetectable)** ensures the payload bypasses antivirus detection. **Anti-Sandbox Detection** prevents analysis in virtual environments. **Stealth Execution** runs the payload discreetly without alerting the user or security tools.
+Rebel-OtpBot-Twillo-Bypass-Paypal-2fa-80-Country-Usa is a sophisticated tool designed to bypass two-factor authentication (2FA) systems, particularly targeting PayPal. **OTP Bypass** intercepts one-time passwords sent via SMS or email. **Twilio Integration** leverages the Twilio API for seamless SMS delivery and management. **PayPal 2FA Exploit** targets vulnerabilities in PayPal's two-factor authentication process. **Multi-Country Support** ensures compatibility with over 80 countries, with a focus on **USA-Focused Targeting**. **Stealth SMS Delivery** avoids detection by disguising messages as legitimate communications. **Anti-Detection Mechanism** prevents triggering fraud alerts. **Automated OTP Capture** extracts OTPs in real-time, enabling unauthorized access to accounts without raising suspicion.
 
 ## Media
 ![oeb2](https://github.com/user-attachments/assets/84c6bed1-caa9-44d8-a38c-566fb95002ac)
@@ -25,14 +25,14 @@ Office-Exploit-Cve2025-Xml-Doc-Docx-Rce-Builder-Fud is a tool designed to exploi
 
 
 ## Features
-* 1 Office Exploit
-* 2 CVE-2025 Integration
-* 3 XML Payload Embedding
-* 4 DOC/DOCX Support
-* 5 RCE (Remote Code Execution)
-* 6 FUD (Fully Undetected)
-* 7 Anti-Sandbox Detection
-* 8 Stealth Execution
+* 1 OTP Bypass
+* 2 Twilio Integration
+* 3 PayPal 2FA Exploit
+* 4 Multi-Country Support (80+ Countries)
+* 5 USA-Focused Targeting
+* 6 Stealth SMS Delivery
+* 7 Anti-Detection Mechanism
+* 8 Automated OTP Capture
 
 
 <p align="center">
