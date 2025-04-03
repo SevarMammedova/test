@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.theunwindai.com">
-    <img src="https://github.com/user-attachments/assets/d38c1f27-15da-4944-9759-20576435c3f4" width="600" height="300" alt="Unwind AI">
+    <img src="https://github.com/user-attachments/assets/4b237772-74aa-4c33-a085-7ac0fdba34f0" width="600" height="300" alt="Unwind AI">
   </a>
 </p>
 
@@ -17,21 +17,22 @@
 
 # What is Exe Malware Tool?
 
-Exe-UacBypass-Downloader-Crypter is a sophisticated tool designed to execute malicious payloads while evading modern security measures. **UAC Bypass** allows privilege escalation by bypassing User Account Control prompts. **Defender Evasion** disables or avoids Windows Defender detection. **FUD Crypter** encrypts the payload to remain undetected during scans and execution. **Malware Downloader** fetches additional payloads from remote servers. **Runtime Execution** decrypts and runs the payload in memory for stealth. **Anti-Debugging** prevents analysis by security tools. **Icon Spoofing** disguises the executable as a legitimate file. **Persistence Setup** ensures the malware remains active after system reboots.
+Exe-To-Base64-ShellCode-Convert is a versatile tool designed to transform executable files into Base64-encoded payloads or raw ShellCode for stealthy execution. **EXE to Base64 Conversion** encodes binary files into text format for easier embedding. **ShellCode Generation** extracts and converts executables into low-level machine code. **Payload Compression** reduces the size of the output for efficient delivery. **Output Encryption** secures the converted payload against analysis. **Stealth Encoding** ensures the output evades signature-based detection. **Custom Delimiters** allow flexible formatting of encoded data. **Multi-Platform Support** ensures compatibility across different operating systems. **Debugging Mode** assists in troubleshooting and verifying the conversion process.
 
 ## Media
-![photo_2025-04-03_13-47-15](https://github.com/user-attachments/assets/781343e5-bb37-40a9-9c40-44f5a44eac3a)
+![photo_2025-04-03_13-58-45](https://github.com/user-attachments/assets/191e5069-ff73-45ba-8da2-2a305b514e3c)
 
-https://github.com/user-attachments/assets/390b7bf2-655f-46b1-af8a-d04fcf969769
+https://github.com/user-attachments/assets/98c21e4d-c8f7-4dee-bed0-0f0e071e6bda
+
 ## Features
-* 1 UAC Bypass
-* 2 Defender Evasion
-* 3 FUD Crypter
-* 4 Malware Downloader
-* 5 Runtime Execution
-* 6 Anti-Debugging
-* 7 Icon Spoofing
-* 8 Persistence Setup
+* 1 EXE to Base64 Conversion
+* 2 ShellCode Generation
+* 3 Payload Compression
+* 4 Output Encryption
+* 5 Stealth Encoding
+* 6 Custom Delimiters
+* 7 Multi-Platform Support
+* 8 Debugging Mode
 
 <p align="center">
     <img src="https://minkxx-spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true&spin=True" alt="Preview">
