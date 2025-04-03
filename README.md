@@ -15,22 +15,22 @@
 </div>
 
 
-# What is Smtp?
+# What is Spoofer?
 
-Smtp-Create-Checker-WebMail-Leads-Phone-Nrs-Scripts is a versatile tool designed for managing SMTP servers, checking their validity, and automating email campaigns while extracting valuable data like leads and phone numbers. **SMTP Server Creation** allows users to set up custom email servers. **SMTP Checker** verifies the functionality of SMTP servers. **WebMail Integration** supports popular webmail platforms for seamless communication. **Lead Generation** extracts potential customer data from various sources. **Phone Number Extraction** gathers contact information for targeted campaigns. **Script Automation** streamlines repetitive tasks with customizable scripts. **Anti-Spam Compliance** ensures emails bypass spam filters. **Bulk Email Sending** enables large-scale email delivery for marketing or phishing.
+DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd is a tool designed to spoof hardware identifiers (HWID) and bypass anti-cheat systems like EAC, BE, and Vanguard. **HWID Spoofer** masks hardware signatures to avoid detection. **EAC (Easy Anti-Cheat) Bypass**, **BE (BattleEye) Bypass**, and **Vanguard Bypass** allow users to evade restrictions imposed by these systems. **Temporary Spoofing** changes HWID temporarily for short-term use. **Permanent Spoofing** modifies hardware details permanently. **Intel Processor Support** ensures compatibility with Intel-based systems. **AMD Processor Support** extends functionality to AMD processors. This tool is ideal for gamers or developers seeking to bypass hardware bans while maintaining system stability across different architectures.
 
 ## Media
 https://github.com/user-attachments/assets/1a4e2bfa-a29a-4453-9e4d-e68ea975ff92
 
 ## Features
-* 1 SMTP Server Creation
-* 2 SMTP Checker
-* 3 WebMail Integration
-* 4 Lead Generation
-* 5 Phone Number Extraction
-* 6 Script Automation
-* 7 Anti-Spam Compliance
-* 8 Bulk Email Sending
+* 1 HWID Spoofer
+* 2 EAC (Easy Anti-Cheat) Bypass
+* 3 BE (BattleEye) Bypass
+* 4 Vanguard Bypass
+* 5 Temporary Spoofing
+* 6 Permanent Spoofing
+* 7 Intel Processor Support
+* 8 AMD Processor Support
 
 
 <p align="center">
