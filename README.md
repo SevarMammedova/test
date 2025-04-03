@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.theunwindai.com">
-    <img src="https://github.com/user-attachments/assets/e1e82a80-9557-425a-9dbd-8c0d3b94ac44" width="600" height="300" alt="Unwind AI">
+    <img src="https://github.com/user-attachments/assets/d39978b2-ebe9-4d3b-abdb-1104525b5875" width="600" height="300" alt="Unwind AI">
   </a>
 </p>
 
@@ -15,24 +15,22 @@
 </div>
 
 
-# What is OTP bot?
+# What is Registry Exploit?
 
-Rebel-OtpBot-Twillo-Bypass-Paypal-2fa-80-Country-Usa is a sophisticated tool designed to bypass two-factor authentication (2FA) systems, particularly targeting PayPal. **OTP Bypass** intercepts one-time passwords sent via SMS or email. **Twilio Integration** leverages the Twilio API for seamless SMS delivery and management. **PayPal 2FA Exploit** targets vulnerabilities in PayPal's two-factor authentication process. **Multi-Country Support** ensures compatibility with over 80 countries, with a focus on **USA-Focused Targeting**. **Stealth SMS Delivery** avoids detection by disguising messages as legitimate communications. **Anti-Detection Mechanism** prevents triggering fraud alerts. **Automated OTP Capture** extracts OTPs in real-time, enabling unauthorized access to accounts without raising suspicion.
+Phantom-Registry-Exploit-Cve2025-20682-Runtime-Fud-Lnk is a tool designed to exploit vulnerabilities in the Windows Registry and leverage malicious LNK files for stealthy payload execution. **Registry Exploit** abuses misconfigurations or weaknesses in the Windows Registry to execute malicious code. **CVE-2025-20682 Integration** targets a specific vulnerability disclosed in 2025. **Runtime Execution** ensures payloads run directly in memory, leaving no traces on disk. **FUD (Fully Undetectable)** bypasses antivirus and endpoint protection systems. **LNK File Abuse** disguises payloads as legitimate shortcuts. **Anti-Sandbox Evasion** prevents analysis in virtual environments. **Stealth Persistence** ensures the payload remains active across system reboots. **Payload Encryption** secures the malicious code to evade detection during transmission and execution.
 
 ## Media
-https://github.com/user-attachments/assets/5dfcbcd8-1841-42bd-8d42-81391ef2b509
-
-![e](https://github.com/user-attachments/assets/9f86f1c9-e9da-40eb-973c-19b6ed4fb702)
+https://github.com/user-attachments/assets/5fefca0c-0050-42d4-beda-a344534c16f3
 
 ## Features
-* 1 OTP Bypass
-* 2 Twilio Integration
-* 3 PayPal 2FA Exploit
-* 4 Multi-Country Support (80+ Countries)
-* 5 USA-Focused Targeting
-* 6 Stealth SMS Delivery
-* 7 Anti-Detection Mechanism
-* 8 Automated OTP Capture
+* 1 Registry Exploit
+* 2 CVE-2025-20682 Integration
+* 3 Runtime Execution
+* 4 FUD (Fully Undetectable)
+* 5 LNK File Abuse
+* 6 Anti-Sandbox Evasion
+* 7 Stealth Persistence
+* 8 Payload Encryption
 
 
 <p align="center">
