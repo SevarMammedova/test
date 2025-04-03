@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.theunwindai.com">
-    <img src="https://github.com/user-attachments/assets/619c16db-9db4-4e5a-9043-246a11c6d4fa" width="600" height="300" alt="Unwind AI">
+    <img src="https://github.com/user-attachments/assets/cc26d5d4-1968-4493-822d-67e439886247" width="600" height="300" alt="Unwind AI">
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 Sakura-Windows-SmartScreen-Bypass-Chrome-Exe-Edge is a tool designed to bypass Windows SmartScreen and execute malicious EXE files while maintaining compatibility with browsers like Chrome and Edge. **Windows SmartScreen Bypass** disables or evades Microsoft's file reputation checks. **Chrome Integration** ensures seamless execution of payloads downloaded via Chrome. **Edge Compatibility** extends support to Microsoft Edge. **EXE File Spoofing** disguises malicious executables as legitimate files. **Anti-Detection Mechanism** prevents triggering antivirus alerts. **Stealth Execution** runs payloads without user notifications. **Certificate Spoofing** adds fake digital signatures for added legitimacy. **Multi-Browser Support** ensures functionality across multiple web browsers, making it versatile for phishing and malware delivery.
 
 ## Media
-![gdfg](https://github.com/user-attachments/assets/fd86e4bb-f730-4482-b894-81c35dafb60c)
+https://github.com/user-attachments/assets/002bbd39-a6e7-4387-9a94-47e689c4a978
 
 ## Features
 * 1 Windows SmartScreen Bypass
