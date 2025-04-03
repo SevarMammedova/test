@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.theunwindai.com">
-    <img src="https://github.com/user-attachments/assets/0efde225-5776-4517-9150-09390fc4cc16" width="600" height="300" alt="Unwind AI">
+    <img src="https://github.com/user-attachments/assets/7a472efb-527f-468d-84f4-e250935c7ada" width="600" height="300" alt="Unwind AI">
   </a>
 </p>
 
@@ -15,14 +15,12 @@
 </div>
 
 
-# What is Sms Sender?
+# What is Smtp?
 
 Smtp-Create-Checker-WebMail-Leads-Phone-Nrs-Scripts is a versatile tool designed for managing SMTP servers, checking their validity, and automating email campaigns while extracting valuable data like leads and phone numbers. **SMTP Server Creation** allows users to set up custom email servers. **SMTP Checker** verifies the functionality of SMTP servers. **WebMail Integration** supports popular webmail platforms for seamless communication. **Lead Generation** extracts potential customer data from various sources. **Phone Number Extraction** gathers contact information for targeted campaigns. **Script Automation** streamlines repetitive tasks with customizable scripts. **Anti-Spam Compliance** ensures emails bypass spam filters. **Bulk Email Sending** enables large-scale email delivery for marketing or phishing.
 
 ## Media
-![vsdfgvdfg](https://github.com/user-attachments/assets/d27dc336-60cf-45e6-a6b8-73a38442fb86)
-
-https://github.com/user-attachments/assets/88c901bf-544b-45f1-95f7-d13332a66260
+https://github.com/user-attachments/assets/26357138-b1e6-45b6-905e-f051963056fd
 
 ## Features
 * 1 SMTP Server Creation
