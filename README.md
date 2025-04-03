@@ -21,6 +21,7 @@ Sakura-Rat-Hvnc-Hidden-Browser-Remote-Administration-Trojan-Bot-Native is a soph
 
 ## Media
 ![Screenshot_1](https://github.com/user-attachments/assets/b241dc3f-b949-441e-b1bb-c9e4894c21c1)
+
 https://github.com/user-attachments/assets/93a86a10-2e89-4ddd-83ff-353f70e7bc0f
 
 ## Features
