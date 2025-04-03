@@ -15,9 +15,9 @@
 </div>
 
 
-# What is Lnk Exploit?
+# What is Office Exploit?
 
-Lnk-Exploit-FileBinder-Certificate-Spoofer-Reg-Doc-Cve-Rce is a multifunctional tool designed for exploiting vulnerabilities and executing payloads discreetly. **LNK Exploit** abuses shortcut files to trigger malicious actions. **File Binder** combines multiple files into a single executable for stealthy delivery. **Certificate Spoofer** disguises payloads with fake digital signatures to evade detection. **Registry Persistence** ensures the payload runs automatically on system startup. **Document Embedding** hides malicious code within documents for phishing attacks. **CVE Integration** leverages known vulnerabilities for exploitation. **RCE (Remote Code Execution)** allows attackers to execute commands remotely. **Anti-Detection Mechanism** bypasses antivirus and endpoint protection systems, ensuring the payload remains undetected during execution.
+Office-Exploit-Cve2025-Xml-Doc-Docx-Rce-Builder-Fud is a tool designed to exploit vulnerabilities in Microsoft Office documents for remote code execution. **Office Exploit** leverages weaknesses in Office applications to execute malicious code. **CVE-2025 Integration** targets specific vulnerabilities disclosed in 2025. **XML Payload Embedding** injects malicious scripts into XML-based Office files. **DOC/DOCX Support** ensures compatibility with both legacy and modern document formats. **RCE (Remote Code Execution)** allows attackers to run commands on the target system. **FUD (Fully Undetectable)** ensures the payload bypasses antivirus detection. **Anti-Sandbox Detection** prevents analysis in virtual environments. **Stealth Execution** runs the payload discreetly without alerting the user or security tools.
 
 ## Media
 ![Screenshot_2](https://github.com/user-attachments/assets/8a68eee5-5d3f-4bd6-80ee-633541d4233b)
@@ -26,14 +26,14 @@ Lnk-Exploit-FileBinder-Certificate-Spoofer-Reg-Doc-Cve-Rce is a multifunctional 
 
 
 ## Features
-* 1 LNK Exploit
-* 2 File Binder
-* 3 Certificate Spoofer
-* 4 Registry Persistence
-* 5 Document Embedding
-* 6 CVE Integration
-* 7 RCE (Remote Code Execution)
-* 8 Anti-Detection Mechanism
+* 1 Office Exploit
+* 2 CVE-2025 Integration
+* 3 XML Payload Embedding
+* 4 DOC/DOCX Support
+* 5 RCE (Remote Code Execution)
+* 6 FUD (Fully Undetected)
+* 7 Anti-Sandbox Detection
+* 8 Stealth Execution
 
 
 <p align="center">
