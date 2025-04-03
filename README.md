@@ -15,22 +15,22 @@
 </div>
 
 
-# What is Registry Exploit?
+# What is Sakura Rat?
 
-Phantom-Registry-Exploit-Cve2025-20682-Runtime-Fud-Lnk is a tool designed to exploit vulnerabilities in the Windows Registry and leverage malicious LNK files for stealthy payload execution. **Registry Exploit** abuses misconfigurations or weaknesses in the Windows Registry to execute malicious code. **CVE-2025-20682 Integration** targets a specific vulnerability disclosed in 2025. **Runtime Execution** ensures payloads run directly in memory, leaving no traces on disk. **FUD (Fully Undetectable)** bypasses antivirus and endpoint protection systems. **LNK File Abuse** disguises payloads as legitimate shortcuts. **Anti-Sandbox Evasion** prevents analysis in virtual environments. **Stealth Persistence** ensures the payload remains active across system reboots. **Payload Encryption** secures the malicious code to evade detection during transmission and execution.
+Sakura-Rat-Hvnc-Hidden-Browser-Remote-Administration-Trojan-Bot-Native is a sophisticated tool designed for stealthy remote access and control. **Hidden Browser** allows attackers to browse the web through the victim's machine without detection. **HVNC (Hidden Virtual Network Computing)** provides remote desktop access without triggering alerts. **Remote Administration Trojan (RAT)** grants full control over the target system, including file management and command execution. **Bot Functionality** enables automation of tasks like data exfiltration. **Native Support** ensures compatibility with various Windows architectures. **Anti-Detection Mechanism** bypasses antivirus and endpoint protection systems. **Fileless Execution** runs payloads in memory to avoid leaving traces on disk. **Multi-Session Handling** supports simultaneous connections to multiple victims.
 
 ## Media
 https://github.com/user-attachments/assets/5fefca0c-0050-42d4-beda-a344534c16f3
 
 ## Features
-* 1 Registry Exploit
-* 2 CVE-2025-20682 Integration
-* 3 Runtime Execution
-* 4 FUD (Fully Undetectable)
-* 5 LNK File Abuse
-* 6 Anti-Sandbox Evasion
-* 7 Stealth Persistence
-* 8 Payload Encryption
+* 1 Hidden Browser
+* 2 HVNC (Hidden Virtual Network Computing)
+* 3 Remote Administration Trojan (RAT)
+* 4 Bot Functionality
+* 5 Native Support
+* 6 Anti-Detection Mechanism
+* 7 Fileless Execution
+* 8 Multi-Session Handling
 
 
 <p align="center">
