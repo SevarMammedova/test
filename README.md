@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.theunwindai.com">
-    <img src="https://github.com/user-attachments/assets/c755ec2b-dbc0-4423-8186-8eef2d34083f" width="600" height="300" alt="Unwind AI">
+    <img src="https://github.com/user-attachments/assets/554339a1-6fd6-4e13-b47a-7859ebedd25a" width="600" height="300" alt="Unwind AI">
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 Ancient-Temporary-Permanted-Hwid-Spoofer-Eac-Be-Vanguard-Intel-Amd is a robust tool designed to spoof hardware identifiers (HWID) and bypass modern anti-cheat systems like EAC, BE, and Vanguard. **HWID Spoofer** alters unique hardware signatures to evade detection. **EAC (Easy Anti-Cheat) Bypass**, **BE (BattleEye) Bypass**, and **Vanguard Bypass** allow users to bypass restrictions imposed by these systems. **Temporary Spoofing** modifies HWID for short-term use, while **Permanent Spoofing** ensures long-term changes. **Intel Processor Support** and **AMD Processor Support** ensure compatibility across both processor architectures. This tool is ideal for gamers or testers seeking to avoid hardware bans while maintaining system integrity and performance.
 
 ## Media
-![hwidspooferimage2](https://github.com/user-attachments/assets/554339a1-6fd6-4e13-b47a-7859ebedd25a)
+![images](https://github.com/user-attachments/assets/c755ec2b-dbc0-4423-8186-8eef2d34083f)
 
 ## Features
 * 1 HWID Spoofer
