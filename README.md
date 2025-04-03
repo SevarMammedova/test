@@ -15,22 +15,22 @@
 </div>
 
 
-# What is ShellCode Elevator?
+# What is SmartScreen Bypass?
 
-ShellCode-Elevator-Uac-Bypass-Inject-Any-X64-fud is a tool designed to bypass User Account Control (UAC) and inject shellcode into processes on x64 systems while remaining undetected. **UAC Bypass** elevates privileges without triggering alerts. **ShellCode Injection** embeds malicious code into legitimate processes for stealthy execution. **X64 Architecture Support** ensures compatibility with 64-bit systems. **FUD (Fully Undetectable)** avoids detection by antivirus and security tools. **Privilege Escalation** grants higher-level access to the system. **Stealth Execution** ensures the payload runs without user or system notifications. **Anti-Debugging Mechanism** prevents analysis by debuggers or reverse-engineering tools. **Memory-Only Injection** executes payloads directly in memory, leaving no traces on disk.
+Sakura-Windows-SmartScreen-Bypass-Chrome-Exe-Edge is a tool designed to bypass Windows SmartScreen and execute malicious EXE files while maintaining compatibility with browsers like Chrome and Edge. **Windows SmartScreen Bypass** disables or evades Microsoft's file reputation checks. **Chrome Integration** ensures seamless execution of payloads downloaded via Chrome. **Edge Compatibility** extends support to Microsoft Edge. **EXE File Spoofing** disguises malicious executables as legitimate files. **Anti-Detection Mechanism** prevents triggering antivirus alerts. **Stealth Execution** runs payloads without user notifications. **Certificate Spoofing** adds fake digital signatures for added legitimacy. **Multi-Browser Support** ensures functionality across multiple web browsers, making it versatile for phishing and malware delivery.
 
 ## Media
 ![gdfg](https://github.com/user-attachments/assets/fd86e4bb-f730-4482-b894-81c35dafb60c)
 
 ## Features
-* 1 UAC Bypass
-* 2 ShellCode Injection
-* 3 X64 Architecture Support
-* 4 FUD (Fully Undetectable)
-* 5 Privilege Escalation
+* 1 Windows SmartScreen Bypass
+* 2 Chrome Integration
+* 3 Edge Compatibility
+* 4 EXE File Spoofing
+* 5 Anti-Detection Mechanism
 * 6 Stealth Execution
-* 7 Anti-Debugging Mechanism
-* 8 Memory-Only Injection
+* 7 Certificate Spoofing
+* 8 Multi-Browser Support
 
 
 <p align="center">
