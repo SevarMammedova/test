@@ -15,9 +15,9 @@
 </div>
 
 
-# What is Cmd Exploit?
+# What is Crypter?
 
-Cmd-Exploit-Cve-2024-Rce-AboRady-Fud-25765-Injection is a tool designed to exploit vulnerabilities in command-line interfaces. **Remote Code Execution (RCE)** allows attackers to run commands on a target system remotely. **CVE-2024 Exploit Integration** targets specific vulnerabilities disclosed in 2024. **Command Injection** enables unauthorized execution of arbitrary commands. **Privilege Escalation** grants higher-level access. **FUD Payloads** bypass antivirus detection, while **Stealthy Execution** avoids leaving traces. It supports multiple platforms and automates the exploitation process. **Anti-Debugging Techniques** prevent analysis by security tools. **Encrypted Communication** ensures secure data exchange, making it harder for defenders to intercept malicious activities.
+PolyCrypt Crypter is a sophisticated polymorphic runtime crypter designed to protect malware payloads from detection and analysis. **Compatibility** ensures seamless integration with various platforms. **Code Injection** supports multiple injection techniques like StealthPE and BAT files. The tool remains **Undetected** during both static scanning and run-time execution due to advanced evasion techniques. **Strong Encryption** secures the payload, while its **Extremely Stable** nature ensures reliable operation. **Heuristic Bypass** defeats heuristic-based detection systems, and **Obfuscation** hides malicious code. It supports both **.NET** and native applications across 32-bit and 64-bit architectures. The **Subsystem Changer** allows toggling between GUI and CUI modes. Its **Ease of Use** makes it accessible even for novice users. Additional features include an **Icon Changer**, **Manifest Embedding**, **Assembly Modification**, **Resource Copying**, and the ability to **Clone/Spoof Digital Certificates**, enhancing stealth and evading signature-based detection.
 
 ## Media
 ![rce-unitrends-scriptgrab](https://github.com/user-attachments/assets/aab4c29b-8ab4-46c6-96cb-c1478691c11b)
@@ -25,16 +25,27 @@ Cmd-Exploit-Cve-2024-Rce-AboRady-Fud-25765-Injection is a tool designed to explo
 https://github.com/ErikWynter/opentsdb_key_cmd_injection/assets/55885619/223e813e-9710-4193-98a1-ded2246567bf
 
 ## Features
-* 1. Remote Code Execution (RCE)
-* 2. CVE-2024 Exploit Integration
-* 3. Command Injection
-* 4. Privilege Escalation
-* 5. FUD (Fully Undetectable) Payloads
-* 6. Stealthy Execution
-* 7. Multi-Platform Support
-* 8. Automated Exploitation
-* 9. Anti-Debugging Techniques
-* 10. Encrypted Communication
+* 1. **Compatibility**
+* 2. **Code Injection (20+ Injections)**
+   - StealthPE, BAT, etc.
+* 3. **Undetected (Scantime/Run-time)**
+* 4. **Strong Encryption**
+* 5. **Extremely Stable**
+* 6. **Heuristic Bypass**
+* 7. **Obfuscation**
+* 8. **.NET & Native Support**
+   - 32-bit / 64-bit
+* 9. **Subsystem Changer (GUI/CUI)**
+* 10. **Easy to Use**
+* 11. **Icon Changer**
+   - Random / Custom / Clone / Copy
+* 12. **Embed Manifest**
+   - Custom / Clone / Copy
+* 13. **Assembly Changer**
+   - Custom / Clone / Copy
+* 14. **Resources Copier**
+* 15. **Digital Certificate**
+   - Clone / Spoof
 
 <p align="center">
     <img src="https://minkxx-spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true&spin=True" alt="Preview">
