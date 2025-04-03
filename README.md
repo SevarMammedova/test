@@ -17,7 +17,7 @@
 
 # What is Exe Fivem Hack?
 
-ShadowAim-FiveM-Cheat-Hack-Dll-Injector is a powerful tool designed to provide an unfair advantage in FiveM gaming environments. **DLL Injector** loads custom cheats directly into the game process. **Aimbot** ensures precise targeting of opponents with minimal effort. **ESP (Extra Sensory Perception)** displays real-time information about players, vehicles, and objects through walls. **TriggerBot** automates shooting when crosshairs align with an enemy. **No Recoil** eliminates weapon recoil for consistent accuracy. **Speed Hack** increases player movement speed for faster traversal. **Anti-Kick Protection** prevents detection by server-side anti-cheat systems. **Stealth Mode** minimizes visibility to admins and monitoring tools.
+BadBoyCheats-Fivem-RageMp-GtaV-Hack-Cheat-Legit-Mod-Menu is a feature-rich cheat tool designed for GTA V, FiveM, and RageMP platforms. **Mod Menu Interface** provides an easy-to-use menu for activating cheats. **Aimbot** ensures precise targeting of enemies with minimal effort. **ESP (Extra Sensory Perception)** displays critical information such as player locations, health, and weapons through walls. **Vehicle Spawner** allows players to spawn any in-game vehicle instantly. **Weapon Customizer** modifies weapon stats for enhanced performance. **Speed Hack** boosts movement speed for faster navigation. **Anti-Ban Protection** reduces the risk of detection by server-side anti-cheat systems. **Stealth Mode** ensures discreet operation to avoid admin scrutiny.
 
 ## Media
 ![vbb](https://github.com/user-attachments/assets/786e4cdc-3b8f-4a0f-bf29-4c7f7e8e1de7)
@@ -26,13 +26,13 @@ https://github.com/user-attachments/assets/54c8b1b0-5331-48df-863b-6b7f7387c880
 
 
 ## Features
-* 1 DLL Injector
+* 1 Mod Menu Interface
 * 2 Aimbot
 * 3 ESP (Extra Sensory Perception)
-* 4 TriggerBot
-* 5 No Recoil
+* 4 Vehicle Spawner
+* 5 Weapon Customizer
 * 6 Speed Hack
-* 7 Anti-Kick Protection
+* 7 Anti-Ban Protection
 * 8 Stealth Mode
 
 <p align="center">
