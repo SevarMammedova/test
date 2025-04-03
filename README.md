@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.theunwindai.com">
-    <img src="https://github.com/user-attachments/assets/b444d27a-9dcd-41fc-b403-eb93f112a86b" width="600" height="300" alt="Unwind AI">
+    <img src="https://github.com/user-attachments/assets/302c204e-dd63-4d6c-8d62-742be4a744db" width="600" height="300" alt="Unwind AI">
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 DEPSHOP-Hwid-Spoofer-Eac-Be-Vanguard-Temporary-Permanted-Intel-Amd is a tool designed to spoof hardware identifiers (HWID) and bypass anti-cheat systems like EAC, BE, and Vanguard. **HWID Spoofer** masks hardware signatures to avoid detection. **EAC (Easy Anti-Cheat) Bypass**, **BE (BattleEye) Bypass**, and **Vanguard Bypass** allow users to evade restrictions imposed by these systems. **Temporary Spoofing** changes HWID temporarily for short-term use. **Permanent Spoofing** modifies hardware details permanently. **Intel Processor Support** ensures compatibility with Intel-based systems. **AMD Processor Support** extends functionality to AMD processors. This tool is ideal for gamers or developers seeking to bypass hardware bans while maintaining system stability across different architectures.
 
 ## Media
-https://github.com/user-attachments/assets/1a4e2bfa-a29a-4453-9e4d-e68ea975ff92
+![oRVYjGP](https://github.com/user-attachments/assets/6f0d8415-ff74-4751-9fd4-b17d08faf6d6)
 
 ## Features
 * 1 HWID Spoofer
