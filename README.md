@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.theunwindai.com">
-    <img src="https://github.com/user-attachments/assets/d4265f76-4198-4a74-ac3b-c2424b0ca9c4" width="600" height="300" alt="Unwind AI">
+    <img src="https://github.com/user-attachments/assets/8fb308e9-9539-41af-a6d3-07ab24c5e22d" width="600" height="300" alt="Unwind AI">
   </a>
 </p>
 
@@ -17,22 +17,22 @@
 
 # What is Crypter?
 
-SCORPIO Crypter is a powerful tool designed to bypass Windows Defender and other security mechanisms while providing advanced features for malware obfuscation and execution. Native Support ensures compatibility with native Windows applications, while .NET Support extends functionality to .NET-based programs. Startup allows payloads to execute automatically when the system boots. AntiVMware detects virtual machine environments to evade sandbox analysis. Icon Change modifies the appearance of malicious files to avoid suspicion. Assembly Change alters executable metadata to evade signature-based detection. Fake Message displays decoy messages to mislead users or analysts. Finally, UAC Force elevates privileges by bypassing User Account Control prompts, ensuring seamless execution of malicious code.
+KGB-Crypter is a tool designed for advanced malware obfuscation and execution. **Windows Defender Killer** disables Windows Defender to reduce detection risks. **DLL Sideloading** injects malicious code into legitimate applications. **EV Certificate Support** provides signing with Extended Validation certificates for added trust. **Unpacked FUD** generates payloads undetected during scans and runtime. **Runtime Encryption** encrypts the payload, decrypting only during execution. **Anti-Debugging** prevents analysis tools from functioning. **Heuristic Bypass** evades behavior-based detection systems. **Icon Customization** modifies the file's appearance to avoid suspicion, making the payload appear legitimate and harder to detect.
 
 ## Media
-![menuffoto](https://github.com/user-attachments/assets/6bf546d2-16e3-47d0-bfe3-867b3011467b)
+![fsdrwe42345](https://github.com/user-attachments/assets/0a42727b-4046-49de-939e-a14550fb6083)
 
-https://github.com/user-attachments/assets/86104ddc-716f-4581-9c51-8bc531cce1d8
+![scre7451](https://github.com/user-attachments/assets/45802245-b701-4276-9db2-ba225f15406b)
 
 ## Features
-* 1 Native Support
-* 2 NET Support
-* 3 Startup
-* 4 AntiVMware
-* 5 Icon Change
-* 6 Assembly Change
-* 7 Fake Message
-* 8 UAC Force
+* 1 Windows Defender Killer
+* 2 DLL Sideloading
+* 3 EV Certificate Support
+* 4 Unpacked FUD
+* 5 Runtime Encryption
+* 6 Anti-Debugging
+* 7 Heuristic Bypass
+* 8 Icon Customization
 
 <p align="center">
     <img src="https://minkxx-spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true&spin=True" alt="Preview">
