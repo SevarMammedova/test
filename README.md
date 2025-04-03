@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.theunwindai.com">
-    <img src="https://github.com/user-attachments/assets/554339a1-6fd6-4e13-b47a-7859ebedd25a" width="600" height="300" alt="Unwind AI">
+    <img src="https://github.com/user-attachments/assets/4124071d-6f4e-4f26-b746-a55933eca5d4" width="600" height="300" alt="Unwind AI">
   </a>
 </p>
 
@@ -17,10 +17,11 @@
 
 # What is Spoofer?
 
-Ancient-Temporary-Permanted-Hwid-Spoofer-Eac-Be-Vanguard-Intel-Amd is a robust tool designed to spoof hardware identifiers (HWID) and bypass modern anti-cheat systems like EAC, BE, and Vanguard. **HWID Spoofer** alters unique hardware signatures to evade detection. **EAC (Easy Anti-Cheat) Bypass**, **BE (BattleEye) Bypass**, and **Vanguard Bypass** allow users to bypass restrictions imposed by these systems. **Temporary Spoofing** modifies HWID for short-term use, while **Permanent Spoofing** ensures long-term changes. **Intel Processor Support** and **AMD Processor Support** ensure compatibility across both processor architectures. This tool is ideal for gamers or testers seeking to avoid hardware bans while maintaining system integrity and performance.
+Shadow-Hwid-Spoofer-Temporary-Permanted-Eac-Be-RicoChet-Vanguard is a comprehensive tool designed to spoof hardware identifiers (HWID) and bypass modern anti-cheat systems like EAC, BE, Ricochet, and Vanguard. **HWID Spoofer** modifies unique hardware signatures to avoid detection. **EAC (Easy Anti-Cheat) Bypass**, **BE (BattleEye) Bypass**, **Ricochet Anti-Cheat Bypass**, and **Vanguard Bypass** enable users to evade restrictions imposed by these systems. **Temporary Spoofing** provides short-term HWID changes, while **Permanent Spoofing** ensures long-lasting modifications. **Multi-Processor Support** ensures compatibility with both Intel and AMD architectures. This tool is ideal for gamers or testers seeking to bypass hardware bans while maintaining system stability and performance across different platforms.
 
 ## Media
-![images](https://github.com/user-attachments/assets/c755ec2b-dbc0-4423-8186-8eef2d34083f)
+![cvvvv](https://github.com/user-attachments/assets/159d957e-a67e-4c2c-8376-68b2a66f85be)
+![zzz](https://github.com/user-attachments/assets/87de50b6-9bb4-4806-b98d-dc1815a7922b)
 
 ## Features
 * 1 HWID Spoofer
