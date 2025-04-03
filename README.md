@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.theunwindai.com">
-    <img src="https://github.com/user-attachments/assets/8fb308e9-9539-41af-a6d3-07ab24c5e22d" width="600" height="300" alt="Unwind AI">
+    <img src="https://github.com/user-attachments/assets/2f93a21d-da64-400b-b6ba-df1fde8ae7fa" width="600" height="300" alt="Unwind AI">
   </a>
 </p>
 
@@ -17,21 +17,20 @@
 
 # What is Crypter?
 
-KGB-Crypter is a tool designed for advanced malware obfuscation and execution. **Windows Defender Killer** disables Windows Defender to reduce detection risks. **DLL Sideloading** injects malicious code into legitimate applications. **EV Certificate Support** provides signing with Extended Validation certificates for added trust. **Unpacked FUD** generates payloads undetected during scans and runtime. **Runtime Encryption** encrypts the payload, decrypting only during execution. **Anti-Debugging** prevents analysis tools from functioning. **Heuristic Bypass** evades behavior-based detection systems. **Icon Customization** modifies the file's appearance to avoid suspicion, making the payload appear legitimate and harder to detect.
+Esco-Crypter is a sophisticated crypter designed to bypass modern security measures while ensuring stealth and efficiency. **Bypass Windows Defender** disables or evades detection by Windows Defender. **Native Support** and **NET Support** ensure compatibility with both native Windows applications and .NET-based programs. **FUD Memory Loading** executes payloads directly in memory, leaving no traces on disk. **Anti-Debugging** techniques prevent reverse engineering attempts. **Runtime Encryption** keeps the payload encrypted until execution, enhancing protection. **Heuristic Evasion** avoids behavior-based detection systems. **Icon Customization** modifies the file's appearance to blend in with legitimate software, reducing user suspicion.
 
 ## Media
-![fsdrwe42345](https://github.com/user-attachments/assets/0a42727b-4046-49de-939e-a14550fb6083)
-
-![scre7451](https://github.com/user-attachments/assets/45802245-b701-4276-9db2-ba225f15406b)
+https://github.com/user-attachments/assets/47317f7f-1349-462c-aeac-408b6e2bf5da
+https://github.com/user-attachments/assets/d03e7e12-2f46-45bb-859b-c46ada8c4ad2
 
 ## Features
-* 1 Windows Defender Killer
-* 2 DLL Sideloading
-* 3 EV Certificate Support
-* 4 Unpacked FUD
-* 5 Runtime Encryption
-* 6 Anti-Debugging
-* 7 Heuristic Bypass
+* 1 Bypass Windows Defender
+* 2 Native Support
+* 3 NET Support
+* 4 FUD Memory Loading
+* 5 Anti-Debugging
+* 6 Runtime Encryption
+* 7 Heuristic Evasion
 * 8 Icon Customization
 
 <p align="center">
