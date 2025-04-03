@@ -15,9 +15,9 @@
 </div>
 
 
-# What is Exe Fivem Hack?
+# What is Lnk Exploit?
 
-UniCore-FiveM-Cheat-StreamProff-Legit is a versatile cheat tool designed for FiveM, offering advanced features while maintaining a stealthy and legitimate appearance. **ESP** provides real-time information about players, vehicles, and objects. **Aimbot** ensures precise targeting with minimal effort. **God Mode** makes the player invincible. **No Recoil** eliminates weapon recoil for consistent accuracy. **Crosshair** enhances aiming precision. **Draw Target Information** displays details about targeted entities. **Draw FPS** shows frames per second for performance monitoring. **Health Modifications** allow instant healing or fast suicide. **FOV Changer** adjusts the field of view. **Noclip** enables flying and passing through walls. **Perfect Drive** ensures flawless vehicle control. **Clear Ped Tasks** resets NPC behavior. **Green Zone Bypass** allows cheats in restricted areas. **Super Punch** enhances melee attacks.
+Lnk-Exploit-FileBinder-Certificate-Spoofer-Reg-Doc-Cve-Rce is a multifunctional tool designed for exploiting vulnerabilities and executing payloads discreetly. **LNK Exploit** abuses shortcut files to trigger malicious actions. **File Binder** combines multiple files into a single executable for stealthy delivery. **Certificate Spoofer** disguises payloads with fake digital signatures to evade detection. **Registry Persistence** ensures the payload runs automatically on system startup. **Document Embedding** hides malicious code within documents for phishing attacks. **CVE Integration** leverages known vulnerabilities for exploitation. **RCE (Remote Code Execution)** allows attackers to execute commands remotely. **Anti-Detection Mechanism** bypasses antivirus and endpoint protection systems, ensuring the payload remains undetected during execution.
 
 ## Media
 ![image-2024-05-20-18-41-26](https://github.com/user-attachments/assets/ca5c2c3a-bff9-4385-8a3f-1612e6912951)
@@ -26,20 +26,15 @@ https://github.com/user-attachments/assets/2e18aad3-69d9-409d-b744-129a087d28c2
 
 
 ## Features
-* 1 ESP (Extra Sensory Perception)
-* 2 Aimbot
-* 3 God Mode
-* 4 No Recoil
-* 5 Crosshair
-* 6 Draw Target Information
-* 7 Draw FPS
-* 8 Health Modifications (Heal & Fast Suicide)
-* 9 FOV Changer
-* 10 Noclip
-* 11 Perfect Drive
-* 12 Clear Ped Tasks
-* 13 Green Zone Bypass
-* 14 Super Punch
+* 1 LNK Exploit
+* 2 File Binder
+* 3 Certificate Spoofer
+* 4 Registry Persistence
+* 5 Document Embedding
+* 6 CVE Integration
+* 7 RCE (Remote Code Execution)
+* 8 Anti-Detection Mechanism
+
 
 <p align="center">
     <img src="https://minkxx-spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true&spin=True" alt="Preview">
