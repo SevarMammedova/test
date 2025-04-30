@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.theunwindai.com">
-    <img src="https://github.com/user-attachments/assets/0ca90a93-cd1d-4047-b548-4091e19a7b63" width="600" height="300" alt="Unwind AI">
+    <img src="https://github.com/user-attachments/assets/4d9b7abd-8fc4-4c07-9348-5e1ceb5d8d74" width="600" height="300" alt="Unwind AI">
   </a>
 </p>
 
@@ -15,22 +15,22 @@
 </div>
 
 
-# What is DeepLive Cam?
+# What is Crypto Drainer?
 
-**Deep Live Cam - Multi Camera Object Tracking** is a powerful system for real-time video analytics with support for multiple camera streams. Using cutting-edge object detection and tracking models, it identifies and monitors objects across various feeds simultaneously. The integrated Web UI makes it easy to view live footage, adjust tracking parameters, and analyze movement patterns directly from your browser. Whether you're building a smart surveillance system, monitoring industrial environments, or researching computer vision, this tool offers a responsive, efficient, and scalable solution for real-time visual intelligence — all with minimal setup and maximum flexibility.
+**Crypto Wallet Drainer Script Checker** is a security-focused tool designed to detect and analyze malicious scripts targeting popular crypto wallets like **OKX**, **Exodus**, and **MetaMask**. It scans injected code, browser extensions, or external scripts for behaviors typical of drainers — such as unauthorized fund transfers or private key access. Built for ethical hackers, auditors, and developers, this tool enables safe testing and enhanced wallet defense. Whether you're analyzing suspicious code or building secure wallet apps, **Drainer Script Checker** helps stay ahead of wallet-draining threats with speed and clarity. For research and protection purposes only.
 
 ## Media
-![Screenshot_1](https://github.com/user-attachments/assets/a2e29dd2-e1bb-4f64-8e69-58e522660673)
+![vbnvbn](https://github.com/user-attachments/assets/e4a42f16-d012-4ed8-9eef-0ccea1cb8156)
 
-![e3704fe6aa4f6b509f02b893faa52f53](https://github.com/user-attachments/assets/c102f938-8b4e-4fa9-8384-756541e99288)
+https://github.com/user-attachments/assets/c50b65ea-7bed-4040-b07b-74477d50e226
 
 ## Features
-* **1. Multi-Camera Support:** Stream from multiple sources at once.
-* **2. Object Tracking:** Detects and follows objects in real-time.
-* **3. Web UI Control:** Manage streams and tracking via browser.
-* **4. Live Analytics:** Displays position, speed, and object IDs.
-* **5. Lightweight Backend:** Fast processing with minimal resource use.
-* **6. Easy Integration:** Plug into any IP cam or webcam setup.
+* **1. Multi-Wallet Scanning:** Supports OKX, Exodus, and MetaMask.
+* **2. Drainer Script Detection:** Identifies malicious withdrawal scripts.
+* **3. Real-Time Alerts:** Warns on suspicious behavior or code injection.
+* **4. Code Analysis Engine:** Parses and flags high-risk functions.
+* **5. Lightweight Interface:** CLI and optional Web UI support.
+* **6. Security Focused:** Built for ethical testing and defense.
 
 
 <p align="center">
