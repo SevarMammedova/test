@@ -20,9 +20,9 @@
 **Leap AI** empowers you to create and deploy your own AI tools — from chatbots and music generators to coding assistants — all without needing deep ML expertise. Whether you're building a conversational bot, generating music, or writing smarter code, Leap AI gives you intuitive controls, API access, and real-time testing through a modern Web UI. Easily turn ideas into fully functioning AI apps, backed by powerful models. Ideal for developers, creators, and startups looking to innovate quickly. With **Leap AI**, your creativity meets machine intelligence — and it’s all just an API call away.
 
 ## Media
-![cbwe](https://github.com/user-attachments/assets/2a4ab552-dc3c-4e4b-8247-f4570af6ee0b)
+![Screenshot_1](https://github.com/user-attachments/assets/7114886a-14de-43e5-862d-e475b7ef48f6)
 
-![histogram-chart](https://github.com/user-attachments/assets/72667b3e-0f32-4d70-85bd-f164c30f7c12)
+https://github.com/user-attachments/assets/1c32b4d0-765d-49fb-a5e5-9e65a7a0728c
 
 ## Features
 * **1. Custom AI Creation:** Build your own AI models or APIs.
