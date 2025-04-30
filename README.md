@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.theunwindai.com">
-    <img src="https://github.com/user-attachments/assets/01fdbe6c-98ef-4cb4-ae61-5da8762fdd42" width="600" height="300" alt="Unwind AI">
+    <img src="https://github.com/user-attachments/assets/37ca9b9d-ae5d-418d-934d-2e241cf858bb" width="600" height="300" alt="Unwind AI">
   </a>
 </p>
 
@@ -20,9 +20,9 @@
 **Crypto Tracker Bot** is a powerful tool designed to monitor wallets and alert you to **high-value transactions** and **token price changes** across multiple cryptocurrencies. Whether you're watching whale wallets or protecting your own, this bot instantly notifies you of large movements or significant market shifts. It supports real-time tracking, multiple tokens, and customizable settings for precision monitoring. Lightweight, fast, and ideal for active traders, analysts, and crypto enthusiasts, **Crypto Tracker** ensures you're never in the dark about what's happening on-chain. Get ahead of the market by staying informed with every key transaction and price spike — automatically.
 
 ## Media
-![image](https://github.com/user-attachments/assets/d8e9e521-27ea-4965-bf38-658a96d57c4d)
+![Screensghjhot_1](https://github.com/user-attachments/assets/1260b098-42bb-4352-a589-a7c1414f6913)
 
-https://github.com/user-attachments/assets/610107f5-d610-4589-951f-3b70a82637a8
+https://github.com/user-attachments/assets/a6588e78-5352-4e48-ae28-e5dcf3fd473a
 
 ## Features
 * **1. Wallet Monitoring:** Tracks specified wallet activity.
