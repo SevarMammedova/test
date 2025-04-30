@@ -17,7 +17,7 @@
 
 # What is DeepLive Cam?
 
-**Deep Live Cam** is an advanced tool built to simulate real-time webcam feeds using a chosen face, ideal for testing facial recognition systems and 2FA ID verification flows. It emulates realistic human behavior such as blinking, head movement, and facial expressions, ensuring high believability. Designed for research, development, and security auditing, it allows developers and analysts to evaluate how robust facial authentication systems are against spoofing attacks. With cross-platform support and high-resolution output, **Deep Live Cam** provides a controlled environment to stress-test identity verification systems while supporting ethical and lawful experimentation.
+**Deep Live Cam - Multi Camera Object Tracking** is a powerful system for real-time video analytics with support for multiple camera streams. Using cutting-edge object detection and tracking models, it identifies and monitors objects across various feeds simultaneously. The integrated Web UI makes it easy to view live footage, adjust tracking parameters, and analyze movement patterns directly from your browser. Whether you're building a smart surveillance system, monitoring industrial environments, or researching computer vision, this tool offers a responsive, efficient, and scalable solution for real-time visual intelligence — all with minimal setup and maximum flexibility.
 
 ## Media
 ![Screenshot_1](https://github.com/user-attachments/assets/a00be675-59bd-4743-9dfe-1110907e9e5a)
@@ -25,12 +25,12 @@
 https://github.com/user-attachments/assets/20fae4db-1101-4d8d-be3a-5ae8b66a1575
 
 ## Features
-* **1. Live Cam Emulation:** Mimics real-time webcam feed.
-* **2. Face Injection:** Projects a target face into live stream.
-* **3. 2FA/ID Test Bypass:** Simulates user presence for verification.
-* **4. Realistic Motion:** Includes blinking, head movement, expressions.
-* **5. High Resolution:** Delivers clear and consistent facial output.
-* **6. Multi-Platform Support:** Compatible with web and desktop apps.
+* **1. Multi-Camera Support:** Stream from multiple sources at once.
+* **2. Object Tracking:** Detects and follows objects in real-time.
+* **3. Web UI Control:** Manage streams and tracking via browser.
+* **4. Live Analytics:** Displays position, speed, and object IDs.
+* **5. Lightweight Backend:** Fast processing with minimal resource use.
+* **6. Easy Integration:** Plug into any IP cam or webcam setup.
 
 
 <p align="center">
