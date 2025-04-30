@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.theunwindai.com">
-    <img src="https://github.com/user-attachments/assets/414d1518-6729-44a2-85ab-23120d55b01f" width="600" height="900" alt="Unwind AI">
+    <img src="https://github.com/user-attachments/assets/c49cfb68-8606-4573-a2b3-ea0f9e249920" width="600" height="900" alt="Unwind AI">
   </a>
 </p>
 
@@ -17,19 +17,19 @@
 
 # What is Flash Wallet?
 
-**Trust Wallet Fake Web3 Balance Tool** is a simulation utility that displays **mock token balances** in Trust Wallet-connected Web3 applications. It allows developers and educators to demonstrate wallet functionality or test UI behavior without using real assets. The tool does **not interact with any blockchain**—it only modifies local display data for visual purposes. Perfect for dApp prototyping, tutorial creation, or product demonstrations, it helps streamline development while avoiding financial risk. This tool is strictly intended for **legal and ethical use**, such as training or testing. Any misuse for fraud or deception is strongly discouraged and not supported.
+**Phantom Wallet Fake Balance Tool** enables developers and educators to simulate custom token balances in **Phantom Wallet** environments for **Solana-based Web3 applications**. It is designed for safe, offline demonstration use, without making real blockchain calls or affecting actual funds. This tool is ideal for prototyping dApp interfaces, recording UI walkthroughs, or training users without financial risk. All balance modifications are **local and visual only**. It is not intended for fraud, exploitation, or unauthorized use. Use it strictly within legal and ethical boundaries for development, testing, or educational purposes.
 
 ## Media
-![download](https://github.com/user-attachments/assets/8448bf9b-8bc7-40eb-8902-7f9b3b2ddea6)
-![images](https://github.com/user-attachments/assets/cb6fc7eb-37f3-4853-baee-c9cfa60992b5)
+![download](https://github.com/user-attachments/assets/b92fa224-f0f6-4ffa-a0ea-8fa999b71da8)
+![c](https://github.com/user-attachments/assets/b2bc2da8-b245-462c-b227-2bb6c75fd7b2)
 
 ## Features
-* **1. Fake Balance Display:** Simulates token balances in Trust Wallet.
-* **2. Web3 Integration:** Works with dApps and browser-based wallets.
-* **3. Visual-Only Effect:** No blockchain interaction or fund movement.
-* **4. Developer-Friendly:** Ideal for UI testing and mock environments.
-* **5. Lightweight Tool:** Quick setup with minimal dependencies.
-* **6. Ethical Use Focused:** For demos, testing, and education only.
+* **1. Fake Balance Display:** Simulates token balances in Phantom Wallet.
+* **2. Solana/Web3 Support:** Designed for Phantom and Solana dApps.
+* **3. Visual-Only Simulation:** No real blockchain or token interaction.
+* **4. Dev & Demo Friendly:** Perfect for UI tests and product showcases.
+* **5. Lightweight Script:** Easy to deploy in local/web environments.
+* **6. For Ethical Use:** Built for educational or development purposes.
 
 
 <p align="center">
