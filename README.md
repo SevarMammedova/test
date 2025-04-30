@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.theunwindai.com">
-    <img src="https://github.com/user-attachments/assets/2acb622e-6ba1-46a9-be72-252f8d5fd8ef" width="600" height="300" alt="Unwind AI">
+    <img src="https://github.com/user-attachments/assets/0d636b95-6c8c-4434-b99b-121ec6e3d364" width="600" height="300" alt="Unwind AI">
   </a>
 </p>
 
@@ -20,9 +20,7 @@
 **Electrum Fake Balance Flash Tool** is a simulation utility that displays a spoofed crypto balance within the **Electrum wallet interface**. It does not alter blockchain data or affect real funds — instead, it's intended for UI demos, educational training, or wallet behavior testing without using live assets. This tool is lightweight and easy to deploy, making it useful for developers building front-end wallet interfaces or instructors demonstrating wallet features in a safe environment. It’s a **non-functional balance simulator** meant purely for **visual and educational purposes**, and should never be used for deception or fraudulent activity.
 
 ## Media
-![images](https://github.com/user-attachments/assets/fbf0fa80-20f8-460f-9ce9-cc8274d93123)
-
-https://github.com/user-attachments/assets/08717c4c-3b8a-4ecd-bd88-209a8f098d57
+![yoULVmhFYKutDJJMQqmXoD](https://github.com/user-attachments/assets/9c0c03eb-a4ca-4758-aa09-c216ea2dfb07)
 
 ## Features
 * **1. Fake Balance Display:** Simulates a custom wallet balance.
