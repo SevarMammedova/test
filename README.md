@@ -15,9 +15,9 @@
 </div>
 
 
-# What is p2p?
+# What is HTTP?
 
-**P2P Wallet Auto Answer Sender with AI** is an advanced automation tool for managing peer-to-peer crypto trading on platforms like **Binance** and **Bitget**. It features an AI-powered auto-responder that intelligently handles chats with buyers or sellers, reducing manual work and speeding up trade flows. With built-in support for wallet integration and real-time transaction tracking, it helps automate sending, confirming payments, and releasing assets under custom rules. Whether you're handling high-volume trades or want a hands-free experience, this tool boosts efficiency and accuracy — making P2P crypto trading smarter, safer, and faster.
+**HTTPS Site Scraper** is a versatile web scraping tool built for secure, HTTPS-based websites — including **social media**, **e-commerce platforms**, and **court or legal databases**. Whether you're collecting public records, monitoring products, or analyzing online trends, this tool simplifies the process with support for custom selectors, headless operation, and flexible export formats. Designed with modularity and anti-blocking strategies in mind, it helps users access and organize valuable public data at scale. Ideal for researchers, analysts, and developers, this scraper brings power and flexibility to automated web data extraction — while respecting terms of service and legal limits.
 
 ## Media
 ![levelgold](https://github.com/user-attachments/assets/6b0cec55-b4ed-4fa2-8c9a-7584e6a45c0a)
@@ -26,13 +26,12 @@
 
 
 ## Features
-* **1. P2P Automation:** Automates peer-to-peer crypto transactions.
-* **2. AI Auto-Responder:** Smart replies to buyer/seller messages.
-* **3. Binance & Bitget Support:** Works seamlessly with top exchanges.
-* **4. Wallet Integration:** Secure access to your P2P wallet functions.
-* **5. Real-Time Monitoring:** Tracks trades, payments, and status live.
-* **6. Custom Logic:** Set conditions for messages and actions.
-
+* **1. HTTPS Scraping:** Extracts data from secure (HTTPS) websites.
+* **2. Multi-Domain Support:** Works on social, commerce, and court sites.
+* **3. Custom Selectors:** Target specific elements via CSS/XPath.
+* **4. Headless Mode:** Run in the background using headless browsers.
+* **5. Export Options:** Save data in CSV, JSON, or database formats.
+* **6. Anti-Bot Handling:** Optional stealth and delay features.
 
 <p align="center">
     <img src="https://minkxx-spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true&spin=True" alt="Preview">
