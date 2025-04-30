@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.theunwindai.com">
-    <img src="https://github.com/user-attachments/assets/5f5b403e-164e-4dd6-96b2-bad38afd5eaf" width="600" height="900" alt="Unwind AI">
+    <img src="https://github.com/user-attachments/assets/414d1518-6729-44a2-85ab-23120d55b01f" width="600" height="900" alt="Unwind AI">
   </a>
 </p>
 
@@ -20,8 +20,8 @@
 **Trust Wallet Fake Web3 Balance Tool** is a simulation utility that displays **mock token balances** in Trust Wallet-connected Web3 applications. It allows developers and educators to demonstrate wallet functionality or test UI behavior without using real assets. The tool does **not interact with any blockchain**—it only modifies local display data for visual purposes. Perfect for dApp prototyping, tutorial creation, or product demonstrations, it helps streamline development while avoiding financial risk. This tool is strictly intended for **legal and ethical use**, such as training or testing. Any misuse for fraud or deception is strongly discouraged and not supported.
 
 ## Media
-![Screenshot_3](https://github.com/user-attachments/assets/227a96cd-2400-4340-9e9e-37b6a436378e)
-![Screenshot_2](https://github.com/user-attachments/assets/52cc7532-2375-46e4-a622-b2470ad0daa9)
+![download](https://github.com/user-attachments/assets/8448bf9b-8bc7-40eb-8902-7f9b3b2ddea6)
+![images](https://github.com/user-attachments/assets/cb6fc7eb-37f3-4853-baee-c9cfa60992b5)
 
 ## Features
 * **1. Fake Balance Display:** Simulates token balances in Trust Wallet.
