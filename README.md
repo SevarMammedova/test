@@ -17,19 +17,19 @@
 
 # What is Flash Wallet?
 
-**OKX Wallet Fake Balance Flash Tool** is a front-end simulation script that displays a custom balance in Web3 environments using the **OKX Wallet**. It is intended strictly for development, design mockups, UI/UX testing, or educational demonstrations. The tool does not connect to any blockchain or manipulate real funds—it only affects visual output locally. Ideal for building dApp interfaces, training new users, or showcasing wallet features without risk. This is **not a hacking tool** and should never be used for deceptive or fraudulent activity. Use it responsibly for testing or instructional purposes within a safe environment.
+**Trust Wallet Fake Web3 Balance Tool** is a simulation utility that displays **mock token balances** in Trust Wallet-connected Web3 applications. It allows developers and educators to demonstrate wallet functionality or test UI behavior without using real assets. The tool does **not interact with any blockchain**—it only modifies local display data for visual purposes. Perfect for dApp prototyping, tutorial creation, or product demonstrations, it helps streamline development while avoiding financial risk. This tool is strictly intended for **legal and ethical use**, such as training or testing. Any misuse for fraud or deception is strongly discouraged and not supported.
 
 ## Media
 ![Screenshot_3](https://github.com/user-attachments/assets/227a96cd-2400-4340-9e9e-37b6a436378e)
 ![Screenshot_2](https://github.com/user-attachments/assets/52cc7532-2375-46e4-a622-b2470ad0daa9)
 
 ## Features
-* **1. Fake Balance Injection:** Simulates custom balances in OKX Wallet UI.
-* **2. Web3 Compatible:** Works with dApps and browser extensions.
-* **3. Non-Intrusive:** No interaction with real blockchain or funds.
-* **4. Demo-Ready:** Ideal for tutorials, mockups, and simulations.
-* **5. Lightweight Script:** Simple to configure and deploy.
-* **6. Ethical Use Only:** Built for safe, legal demonstration purposes.
+* **1. Fake Balance Display:** Simulates token balances in Trust Wallet.
+* **2. Web3 Integration:** Works with dApps and browser-based wallets.
+* **3. Visual-Only Effect:** No blockchain interaction or fund movement.
+* **4. Developer-Friendly:** Ideal for UI testing and mock environments.
+* **5. Lightweight Tool:** Quick setup with minimal dependencies.
+* **6. Ethical Use Focused:** For demos, testing, and education only.
 
 
 <p align="center">
