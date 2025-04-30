@@ -17,19 +17,19 @@
 
 # What is Flash Wallet?
 
-**Atomic Wallet Fake Balance Flash Tool** is designed to display simulated balances inside the **Atomic Wallet** environment without interacting with real funds or blockchain networks. Ideal for front-end developers, UI/UX designers, or training scenarios, it helps demonstrate wallet functionality in a safe, controlled setting. This tool offers a visual-only spoof, meaning no actual cryptocurrency is created, moved, or stored. It’s perfect for mockups, instructional videos, or app demos—while staying compliant with ethical and legal standards. **Not intended for misuse**. Use responsibly for educational, testing, or development purposes only.
+**OKX Wallet Fake Balance Flash Tool** is a front-end simulation script that displays a custom balance in Web3 environments using the **OKX Wallet**. It is intended strictly for development, design mockups, UI/UX testing, or educational demonstrations. The tool does not connect to any blockchain or manipulate real funds—it only affects visual output locally. Ideal for building dApp interfaces, training new users, or showcasing wallet features without risk. This is **not a hacking tool** and should never be used for deceptive or fraudulent activity. Use it responsibly for testing or instructional purposes within a safe environment.
 
 ## Media
 ![7188e278e7eb60c68d6c9906b1a03196763164bf](https://github.com/user-attachments/assets/4feac0df-6f2f-45b7-ad6a-8dbcadb569ae)
 ![reason2](https://github.com/user-attachments/assets/070049c8-1010-4b54-9992-e7ef1e40dbd5)
 
 ## Features
-* **1. Fake Balance Display:** Simulates wallet balance visually.
-* **2. Atomic Wallet Compatibility:** Mimics native UI behavior.
-* **3. No Real Transactions:** Does not touch blockchain data.
-* **4. For Demo & Testing:** Useful for UI mockups and training.
-* **5. Lightweight Script:** Easy to set up and modify.
-* **6. Educational Purpose:** Built for ethical use only.
+* **1. Fake Balance Injection:** Simulates custom balances in OKX Wallet UI.
+* **2. Web3 Compatible:** Works with dApps and browser extensions.
+* **3. Non-Intrusive:** No interaction with real blockchain or funds.
+* **4. Demo-Ready:** Ideal for tutorials, mockups, and simulations.
+* **5. Lightweight Script:** Simple to configure and deploy.
+* **6. Ethical Use Only:** Built for safe, legal demonstration purposes.
 
 
 <p align="center">
