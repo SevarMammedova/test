@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.theunwindai.com">
-    <img src="https://github.com/user-attachments/assets/9c0c03eb-a4ca-4758-aa09-c216ea2dfb07" width="600" height="300" alt="Unwind AI">
+    <img src="https://github.com/user-attachments/assets/4feac0df-6f2f-45b7-ad6a-8dbcadb569ae" width="600" height="300" alt="Unwind AI">
   </a>
 </p>
 
@@ -17,18 +17,19 @@
 
 # What is Flash Wallet?
 
-**Electrum Fake Balance Flash Tool** is a simulation utility that displays a spoofed crypto balance within the **Electrum wallet interface**. It does not alter blockchain data or affect real funds — instead, it's intended for UI demos, educational training, or wallet behavior testing without using live assets. This tool is lightweight and easy to deploy, making it useful for developers building front-end wallet interfaces or instructors demonstrating wallet features in a safe environment. It’s a **non-functional balance simulator** meant purely for **visual and educational purposes**, and should never be used for deception or fraudulent activity.
+**Atomic Wallet Fake Balance Flash Tool** is designed to display simulated balances inside the **Atomic Wallet** environment without interacting with real funds or blockchain networks. Ideal for front-end developers, UI/UX designers, or training scenarios, it helps demonstrate wallet functionality in a safe, controlled setting. This tool offers a visual-only spoof, meaning no actual cryptocurrency is created, moved, or stored. It’s perfect for mockups, instructional videos, or app demos—while staying compliant with ethical and legal standards. **Not intended for misuse**. Use responsibly for educational, testing, or development purposes only.
 
 ## Media
-![vbvb](https://github.com/user-attachments/assets/0d636b95-6c8c-4434-b99b-121ec6e3d364)
+![7188e278e7eb60c68d6c9906b1a03196763164bf](https://github.com/user-attachments/assets/4feac0df-6f2f-45b7-ad6a-8dbcadb569ae)
+![reason2](https://github.com/user-attachments/assets/070049c8-1010-4b54-9992-e7ef1e40dbd5)
 
 ## Features
-* **1. Fake Balance Display:** Simulates a custom wallet balance.
-* **2. Electrum Integration:** Works within the Electrum wallet UI.
-* **3. No Blockchain Impact:** Does not interact with the real network.
-* **4. For Testing/Demo Use:** Ideal for UI mockups and training.
-* **5. Lightweight Script:** Easy to run, no complex setup.
-* **6. Educational Tool:** Designed for ethical use and simulation.
+* **1. Fake Balance Display:** Simulates wallet balance visually.
+* **2. Atomic Wallet Compatibility:** Mimics native UI behavior.
+* **3. No Real Transactions:** Does not touch blockchain data.
+* **4. For Demo & Testing:** Useful for UI mockups and training.
+* **5. Lightweight Script:** Easy to set up and modify.
+* **6. Educational Purpose:** Built for ethical use only.
 
 
 <p align="center">
