@@ -20,9 +20,9 @@
 **Crypto Wallet Drainer Script Checker** is a threat analysis utility built to detect scripts that attempt to steal seed phrases or drain crypto wallets. It intelligently scans codebases, browser extensions, and scripts for signs of malicious logic, including seed phrase prompts, fund transfer functions, and obfuscated payloads. Compatible with wallets like MetaMask, Trust Wallet, and OKX, it's a critical tool for developers, bug bounty hunters, and security analysts. Whether you're securing a dApp or auditing a web3 project, this tool helps you catch threats before they cause harm. Use strictly for ethical, defensive, and educational cybersecurity purposes.
 
 ## Media
-![vbnvbn](https://github.com/user-attachments/assets/e4a42f16-d012-4ed8-9eef-0ccea1cb8156)
+![images](https://github.com/user-attachments/assets/fbf0fa80-20f8-460f-9ce9-cc8274d93123)
 
-https://github.com/user-attachments/assets/c50b65ea-7bed-4040-b07b-74477d50e226
+https://github.com/user-attachments/assets/08717c4c-3b8a-4ecd-bd88-209a8f098d57
 
 ## Features
 * **1. Seed Phrase Scan:** Detects exposed or misused seed phrases.
