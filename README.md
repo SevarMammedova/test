@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.theunwindai.com">
-    <img src="https://github.com/user-attachments/assets/c49cfb68-8606-4573-a2b3-ea0f9e249920" width="600" height="900" alt="Unwind AI">
+    <img src="https://github.com/user-attachments/assets/c6d054eb-a84b-4023-8d3e-23626daea3ac" width="600" height="900" alt="Unwind AI">
   </a>
 </p>
 
@@ -20,8 +20,9 @@
 **Leap AI** empowers you to create and deploy your own AI tools — from chatbots and music generators to coding assistants — all without needing deep ML expertise. Whether you're building a conversational bot, generating music, or writing smarter code, Leap AI gives you intuitive controls, API access, and real-time testing through a modern Web UI. Easily turn ideas into fully functioning AI apps, backed by powerful models. Ideal for developers, creators, and startups looking to innovate quickly. With **Leap AI**, your creativity meets machine intelligence — and it’s all just an API call away.
 
 ## Media
-![download](https://github.com/user-attachments/assets/b92fa224-f0f6-4ffa-a0ea-8fa999b71da8)
-![c](https://github.com/user-attachments/assets/b2bc2da8-b245-462c-b227-2bb6c75fd7b2)
+![cbwe](https://github.com/user-attachments/assets/2a4ab552-dc3c-4e4b-8247-f4570af6ee0b)
+
+![histogram-chart](https://github.com/user-attachments/assets/72667b3e-0f32-4d70-85bd-f164c30f7c12)
 
 ## Features
 * **1. Custom AI Creation:** Build your own AI models or APIs.
