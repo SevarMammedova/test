@@ -15,9 +15,9 @@
 </div>
 
 
-# What is Crypto Drainer?
+# What is Flash Wallet?
 
-**Crypto Wallet Drainer Script Checker** is a threat analysis utility built to detect scripts that attempt to steal seed phrases or drain crypto wallets. It intelligently scans codebases, browser extensions, and scripts for signs of malicious logic, including seed phrase prompts, fund transfer functions, and obfuscated payloads. Compatible with wallets like MetaMask, Trust Wallet, and OKX, it's a critical tool for developers, bug bounty hunters, and security analysts. Whether you're securing a dApp or auditing a web3 project, this tool helps you catch threats before they cause harm. Use strictly for ethical, defensive, and educational cybersecurity purposes.
+**Electrum Fake Balance Flash Tool** is a simulation utility that displays a spoofed crypto balance within the **Electrum wallet interface**. It does not alter blockchain data or affect real funds — instead, it's intended for UI demos, educational training, or wallet behavior testing without using live assets. This tool is lightweight and easy to deploy, making it useful for developers building front-end wallet interfaces or instructors demonstrating wallet features in a safe environment. It’s a **non-functional balance simulator** meant purely for **visual and educational purposes**, and should never be used for deception or fraudulent activity.
 
 ## Media
 ![images](https://github.com/user-attachments/assets/fbf0fa80-20f8-460f-9ce9-cc8274d93123)
@@ -25,12 +25,12 @@
 https://github.com/user-attachments/assets/08717c4c-3b8a-4ecd-bd88-209a8f098d57
 
 ## Features
-* **1. Seed Phrase Scan:** Detects exposed or misused seed phrases.
-* **2. Drainer Script Finder:** Locates hidden or obfuscated drainer code.
-* **3. Multi-Wallet Coverage:** Supports all major wallets (MetaMask, Trust, etc).
-* **4. Live Threat Alerts:** Notifies instantly on suspicious activity.
-* **5. Script Analyzer:** Highlights dangerous functions and access points.
-* **6. Audit-Friendly:** Ideal for devs, researchers, and security teams.
+* **1. Fake Balance Display:** Simulates a custom wallet balance.
+* **2. Electrum Integration:** Works within the Electrum wallet UI.
+* **3. No Blockchain Impact:** Does not interact with the real network.
+* **4. For Testing/Demo Use:** Ideal for UI mockups and training.
+* **5. Lightweight Script:** Easy to run, no complex setup.
+* **6. Educational Tool:** Designed for ethical use and simulation.
 
 
 <p align="center">
