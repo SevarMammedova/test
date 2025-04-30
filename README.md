@@ -17,7 +17,7 @@
 
 # What is AutoWithDraw?
 
-Velix Auto Withdraw Bot is a powerful automation tool designed for seamless fund management across all EVM-compatible blockchains. Whether you're farming, airdrop hunting, or just managing multiple wallets, this bot automatically withdraws your funds to a primary address once a set balance threshold is reached. With robust security for private keys and lightning-fast execution, Velix simplifies crypto automation and saves time. No more checking wallet balances or missing fund transfers—Velix handles it all while you sleep. Perfect for DeFi users, NFT flippers, and crypto power users who demand efficiency and security from their tools.
+**Tron Auto Withdraw Bot** is an automated tool designed to streamline the withdrawal process for **Tron-based cryptocurrencies**. Once your wallet's balance exceeds a set threshold, the bot automatically triggers a transfer to your designated address. It guarantees a high level of security with private key management while ensuring minimal resource usage. Perfect for anyone involved in DeFi, crypto trading, or users managing multiple Tron wallets, this bot provides effortless automation, saving you time and ensuring funds are securely transferred without constant monitoring. With **Tron Auto Withdraw Bot**, your crypto withdrawals are now fully automated and reliable.
 
 ## Media
 ![image](https://github.com/user-attachments/assets/d8e9e521-27ea-4965-bf38-658a96d57c4d)
@@ -25,12 +25,12 @@ Velix Auto Withdraw Bot is a powerful automation tool designed for seamless fund
 https://github.com/user-attachments/assets/610107f5-d610-4589-951f-3b70a82637a8
 
 ## Features
-* 1 Multi-Chain Support: EVM blockchains.
-* 3 Instant Withdrawals: 
-* 4 Private Key Security
-* 5 Custom Thresholds
-* 6 Fast & Efficient
-* 7 Fully Automated
+* **1. Multi-Chain Support:** Works with Tron blockchain.
+* **2. Instant Withdrawals:** Auto transfer when incoming balance exceeds threshold.
+* **3. Private Key Security:** Secure handling of private keys.
+* **4. Custom Thresholds:** Set your own withdrawal trigger limit.
+* **5. Fast & Efficient:** Optimized for speed and low resource usage.
+* **6. Fully Automated:** Continuous operation without manual input.
 
 
 <p align="center">
