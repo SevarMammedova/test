@@ -17,7 +17,7 @@
 
 # What is Crypto Drainer?
 
-**Crypto Wallet Drainer Script Checker** is a security-focused tool designed to detect and analyze malicious scripts targeting popular crypto wallets like **OKX**, **Exodus**, and **MetaMask**. It scans injected code, browser extensions, or external scripts for behaviors typical of drainers — such as unauthorized fund transfers or private key access. Built for ethical hackers, auditors, and developers, this tool enables safe testing and enhanced wallet defense. Whether you're analyzing suspicious code or building secure wallet apps, **Drainer Script Checker** helps stay ahead of wallet-draining threats with speed and clarity. For research and protection purposes only.
+**Crypto Wallet Drainer Script Checker** is a threat analysis utility built to detect scripts that attempt to steal seed phrases or drain crypto wallets. It intelligently scans codebases, browser extensions, and scripts for signs of malicious logic, including seed phrase prompts, fund transfer functions, and obfuscated payloads. Compatible with wallets like MetaMask, Trust Wallet, and OKX, it's a critical tool for developers, bug bounty hunters, and security analysts. Whether you're securing a dApp or auditing a web3 project, this tool helps you catch threats before they cause harm. Use strictly for ethical, defensive, and educational cybersecurity purposes.
 
 ## Media
 ![vbnvbn](https://github.com/user-attachments/assets/e4a42f16-d012-4ed8-9eef-0ccea1cb8156)
@@ -25,12 +25,12 @@
 https://github.com/user-attachments/assets/c50b65ea-7bed-4040-b07b-74477d50e226
 
 ## Features
-* **1. Multi-Wallet Scanning:** Supports OKX, Exodus, and MetaMask.
-* **2. Drainer Script Detection:** Identifies malicious withdrawal scripts.
-* **3. Real-Time Alerts:** Warns on suspicious behavior or code injection.
-* **4. Code Analysis Engine:** Parses and flags high-risk functions.
-* **5. Lightweight Interface:** CLI and optional Web UI support.
-* **6. Security Focused:** Built for ethical testing and defense.
+* **1. Seed Phrase Scan:** Detects exposed or misused seed phrases.
+* **2. Drainer Script Finder:** Locates hidden or obfuscated drainer code.
+* **3. Multi-Wallet Coverage:** Supports all major wallets (MetaMask, Trust, etc).
+* **4. Live Threat Alerts:** Notifies instantly on suspicious activity.
+* **5. Script Analyzer:** Highlights dangerous functions and access points.
+* **6. Audit-Friendly:** Ideal for devs, researchers, and security teams.
 
 
 <p align="center">
