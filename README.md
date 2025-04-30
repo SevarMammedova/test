@@ -15,21 +15,21 @@
 </div>
 
 
-# What is Flash Wallet?
+# How Does it work?
 
-**Phantom Wallet Fake Balance Tool** enables developers and educators to simulate custom token balances in **Phantom Wallet** environments for **Solana-based Web3 applications**. It is designed for safe, offline demonstration use, without making real blockchain calls or affecting actual funds. This tool is ideal for prototyping dApp interfaces, recording UI walkthroughs, or training users without financial risk. All balance modifications are **local and visual only**. It is not intended for fraud, exploitation, or unauthorized use. Use it strictly within legal and ethical boundaries for development, testing, or educational purposes.
+**Leap AI** empowers you to create and deploy your own AI tools — from chatbots and music generators to coding assistants — all without needing deep ML expertise. Whether you're building a conversational bot, generating music, or writing smarter code, Leap AI gives you intuitive controls, API access, and real-time testing through a modern Web UI. Easily turn ideas into fully functioning AI apps, backed by powerful models. Ideal for developers, creators, and startups looking to innovate quickly. With **Leap AI**, your creativity meets machine intelligence — and it’s all just an API call away.
 
 ## Media
 ![download](https://github.com/user-attachments/assets/b92fa224-f0f6-4ffa-a0ea-8fa999b71da8)
 ![c](https://github.com/user-attachments/assets/b2bc2da8-b245-462c-b227-2bb6c75fd7b2)
 
 ## Features
-* **1. Fake Balance Display:** Simulates token balances in Phantom Wallet.
-* **2. Solana/Web3 Support:** Designed for Phantom and Solana dApps.
-* **3. Visual-Only Simulation:** No real blockchain or token interaction.
-* **4. Dev & Demo Friendly:** Perfect for UI tests and product showcases.
-* **5. Lightweight Script:** Easy to deploy in local/web environments.
-* **6. For Ethical Use:** Built for educational or development purposes.
+* **1. Custom AI Creation:** Build your own AI models or APIs.
+* **2. Chat Integration:** Deploy personalized chatbots instantly.
+* **3. Music Generation:** AI that composes or remixes music.
+* **4. Code Assistance:** Smart AI coding helper for devs.
+* **5. API Ready:** Launch and share your AI via API endpoints.
+* **6. Web UI Dashboard:** Manage, test, and deploy with ease.
 
 
 <p align="center">
