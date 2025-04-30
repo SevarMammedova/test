@@ -17,7 +17,7 @@
 
 # How Does it work?
 
-**Leap AI** empowers you to create and deploy your own AI tools — from chatbots and music generators to coding assistants — all without needing deep ML expertise. Whether you're building a conversational bot, generating music, or writing smarter code, Leap AI gives you intuitive controls, API access, and real-time testing through a modern Web UI. Easily turn ideas into fully functioning AI apps, backed by powerful models. Ideal for developers, creators, and startups looking to innovate quickly. With **Leap AI**, your creativity meets machine intelligence — and it’s all just an API call away.
+**Visualig AI** is a powerful platform that lets anyone build and deploy custom AI applications across chat, photo, video, and code. Whether you're generating realistic images, crafting video content, building a helpful chatbot, or automating coding tasks — Visualig makes it easy with a no-code/low-code interface and instant API publishing. Perfect for developers, startups, educators, and creatives, it transforms complex AI workflows into simple, reusable tools. Deploy your own AI endpoints, connect them to your apps, and explore the power of multimodal AI without needing deep machine learning knowledge. Build smarter, faster — with **Visualig AI**.
 
 ## Media
 ![Screenshot_1](https://github.com/user-attachments/assets/7114886a-14de-43e5-862d-e475b7ef48f6)
@@ -25,12 +25,12 @@
 https://github.com/user-attachments/assets/1c32b4d0-765d-49fb-a5e5-9e65a7a0728c
 
 ## Features
-* **1. Custom AI Creation:** Build your own AI models or APIs.
-* **2. Chat Integration:** Deploy personalized chatbots instantly.
-* **3. Music Generation:** AI that composes or remixes music.
-* **4. Code Assistance:** Smart AI coding helper for devs.
-* **5. API Ready:** Launch and share your AI via API endpoints.
-* **6. Web UI Dashboard:** Manage, test, and deploy with ease.
+* **1. AI Builder Platform:** Create custom AI tools without coding.
+* **2. Chatbot Integration:** Build smart chat agents for any use case.
+* **3. Photo AI Tools:** Generate, edit, or analyze images via AI.
+* **4. Video Capabilities:** AI for video generation, editing, or tagging.
+* **5. Code Assistance:** Build AI to write, review, or explain code.
+* **6. API Deployment:** Turn your AI into scalable API endpoints.
 
 
 <p align="center">
