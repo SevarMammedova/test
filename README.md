@@ -15,9 +15,9 @@
 </div>
 
 
-# What is AutoWithDraw?
+# What is CryptoTracker?
 
-**Tron Auto Withdraw Bot** is an automated tool designed to streamline the withdrawal process for **Tron-based cryptocurrencies**. Once your wallet's balance exceeds a set threshold, the bot automatically triggers a transfer to your designated address. It guarantees a high level of security with private key management while ensuring minimal resource usage. Perfect for anyone involved in DeFi, crypto trading, or users managing multiple Tron wallets, this bot provides effortless automation, saving you time and ensuring funds are securely transferred without constant monitoring. With **Tron Auto Withdraw Bot**, your crypto withdrawals are now fully automated and reliable.
+**Crypto Tracker Bot** is a powerful tool designed to monitor wallets and alert you to **high-value transactions** and **token price changes** across multiple cryptocurrencies. Whether you're watching whale wallets or protecting your own, this bot instantly notifies you of large movements or significant market shifts. It supports real-time tracking, multiple tokens, and customizable settings for precision monitoring. Lightweight, fast, and ideal for active traders, analysts, and crypto enthusiasts, **Crypto Tracker** ensures you're never in the dark about what's happening on-chain. Get ahead of the market by staying informed with every key transaction and price spike — automatically.
 
 ## Media
 ![image](https://github.com/user-attachments/assets/d8e9e521-27ea-4965-bf38-658a96d57c4d)
@@ -25,12 +25,12 @@
 https://github.com/user-attachments/assets/610107f5-d610-4589-951f-3b70a82637a8
 
 ## Features
-* **1. Multi-Chain Support:** Works with Tron blockchain.
-* **2. Instant Withdrawals:** Auto transfer when incoming balance exceeds threshold.
-* **3. Private Key Security:** Secure handling of private keys.
-* **4. Custom Thresholds:** Set your own withdrawal trigger limit.
-* **5. Fast & Efficient:** Optimized for speed and low resource usage.
-* **6. Fully Automated:** Continuous operation without manual input.
+* **1. Wallet Monitoring:** Tracks specified wallet activity.
+* **2. High-Value Alerts:** Notifies on large incoming/outgoing transactions.
+* **3. Token Price Checker:** Monitors price of tracked tokens.
+* **4. Real-Time Tracking:** Instant updates on new transactions.
+* **5. Multi-Token Support:** Works with multiple cryptocurrencies.
+* **6. Lightweight & Fast:** Efficient and low on resource usage.
 
 
 <p align="center">
