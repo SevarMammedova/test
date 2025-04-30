@@ -21,6 +21,7 @@ Velix Auto Withdraw Bot is a powerful automation tool designed for seamless fund
 
 ## Media
 ![image](https://github.com/user-attachments/assets/d8e9e521-27ea-4965-bf38-658a96d57c4d)
+
 https://github.com/user-attachments/assets/610107f5-d610-4589-951f-3b70a82637a8
 
 ## Features
